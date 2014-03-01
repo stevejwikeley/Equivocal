@@ -216,10 +216,7 @@
 	input[type="submit"].green:hover,
 	input[type="reset"].green:hover,
 	input[type="button"].green:hover  {
-		background: #9ecd40;
-		-webkit-box-shadow: 0px 0px 4px rgba(0,0,0,0.2) inset;
-	  -moz-box-shadow: 0px 0px 4px rgba(0,0,0,0.2) inset;
-	  box-shadow: 0px 0px 4px rgba(0,0,0,0.2) inset;
+		border: 2px solid #999161;
 		}
 
 
@@ -291,7 +288,7 @@
 	input[type="reset"].gray,
 	input[type="button"].gray {
 	  color:#656f79;
-	  text-shadow: 0 -1px #fff;
+	  
 	  background: #f3f4f5;    
 		 }
 		 
@@ -429,7 +426,7 @@
 	input[type="submit"]:active,
 	input[type="reset"]:active,
 	input[type="button"]:active {
-		color: #c1d7dc;
+		color: #999161;
 		opacity: 0.94;
 		 }
 		 
@@ -448,13 +445,13 @@
 		text-transform:uppercase;
 		}
 		
-	    .button.bordered-bot:hover,
+	    .button.green.bordered-bot:hover,
 	button.bordered-bot:hover,
 	input[type="submit"].bordered-bot:hover,
 	input[type="reset"].bordered-bot:hover,
 	input[type="button"].bordered-bot:hover {
-		border-color:#363f46;
-		color:#363f46;
+		border-color:#999161;
+		color:#999161;
 		}
 		
 	 .button.blue.bordered-bot,
@@ -553,9 +550,19 @@
 	input[type="submit"].green.bordered-bot,
 	input[type="reset"].green.bordered-bot,
 	input[type="button"].green.bordered-bot {
-	  border-color: #8fbe32;
-	  color: #8fbe32;   
+	  border-color: #00ff00;
+	  color: #00ff00;   
 		 }
+
+
+    .button.green.bordered-bot:hover,
+	button.bordered-bot:hover,
+	input[type="submit"].bordered-bot:hover,
+	input[type="reset"].bordered-bot:hover,
+	input[type="button"].bordered-bot:hover {
+		 border-color: #999161;
+		 color: #999161;
+		}
 		 
 		 
 		 
