@@ -31,7 +31,7 @@
 	.side-list p { font-size:13px;}
 	#footer .side-list ul, #footer ul.side-list { border:none;}
 	#footer .side-list li { background:none; border-color:#393939;}
-	#footer .side-list li:hover { border-color:#444;}
+	#footer .side-list li:hover { border-color:#595959;}
 	#footer .side-list h5 a { color:#b9b9b9;}
 	#footer .side-list img { background:#454545;}
 	#footer .side-list li:hover img { background:#e84a52;}

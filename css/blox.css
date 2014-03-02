@@ -2,7 +2,7 @@
 	/* #Full width Sections + Parallax Stylesheet
 	================================================== */
 	
-	.blox { padding:45px 0 43px; clear:both; background:#f1f8fc; }
+	.blox { padding: 45px 0 43px; clear: both; border-top: 1px solid #999161; }
 	.blox.nopad { padding:0; margin:0;}
 	.blox.dark { background:#384852;  text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.23);}
 	.blox.dark .nonetextshadow *{ text-shadow:none;}
@@ -24,7 +24,7 @@
 	.blox.dark p { color:rgba(255, 255, 255, 0.9); }
 	.blox.dark small { color:rgba(255, 255, 255, 0.8); }
 	.bloxcirc { width:70px; height:70px; border-radius:35px; background:#e53f51 url(../images/ico-bulb1.png) no-repeat center center; position:relative; margin:-78px auto 21px; display:block; }
-	.bloxcirc.portx { width:50px; height:50px; border-radius:25px;  margin:-58px auto 21px; background-color:#0093d0;  }
+	.bloxcirc.portx { width:50px; height:50px; border-radius:25px;  margin:-58px auto 21px; background-color:#999161;  }
 	.bloxcirc.bell-bg { background:#e53f51 url(../images/ico-bell1.png) no-repeat center center; }
 	.bloxcirc.flash-bg { background:#e53f51 url(../images/ico-flash1.png) no-repeat center center; }
 	.bloxcirc.eye-bg { background:#e53f51 url(../images/ico-eye1.png) no-repeat center center; }

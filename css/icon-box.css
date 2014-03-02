@@ -15,7 +15,7 @@
 	.icon-box2 p { padding:0 12px;}
 	.icon-box2:hover { background-color:#fafafa; cursor:default;}
 	.icon-box3 i, .icon-box4 i { font-size: 48px; color: #2e373d; margin-bottom: 10px; display: inline-block; -webkit-transition: all .3s ease-in-out; -moz-transition: all .3s ease-in-out; -ms-transition: all .3s ease-in-out; -o-transition: all .3s ease-in-out; transition: all .3s ease-in-out; }
-	.icon-box3:hover i { color: #0093d0; cursor: default; }
+	.icon-box3:hover i { color: #999161; cursor: default; }
 	.icon-box3 h5, .icon-box4 h5 { margin-bottom: 4px; color: #2e373d; font-size: 16px; letter-spacing: 0.25px; }
 	.icon-box3 h5 strong, .icon-box4 h5 strong { font-weight: bold; }
 	.icon-box3 p { line-height: 21px; margin-right: 10px; }
