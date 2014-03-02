@@ -225,7 +225,8 @@
 	  min-height: 20px;
 	  padding: 19px;
 	  margin-bottom: 20px;
-	  background-color: #f9f9f9;
+	  background-color: rgba(255, 255, 255, 0.80);
+	  opacity 0.4;
 /*	  border: 1px solid #e1e7ec;
 	  border: 1px solid rgba(0, 0, 0, 0.05);*/
 	}

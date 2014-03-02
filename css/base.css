@@ -52,8 +52,8 @@
 ================================================== */
 
 	body {
-		background: #f4f7f8 url(../images/bdbg1.png);
-		font: 16px/24px 'EB Garamond', serif;  
+/*		background: #f4f7f8 url(../images/bdbg1.png);
+*/		font: 16px/24px 'EB Garamond', serif;  
 		color: #999161;
 		-webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
 		-webkit-text-size-adjust: 100%;
@@ -88,7 +88,7 @@
 	h3 strong, h4 strong { letter-spacing: -0.02em;}
 	h1.maxtitle { font-size:56px; line-height:60px; font-weight:100;}
 
-	p { margin: 0 0 20px 0; color:#595959; font-size:22px; line-height:32px; font-weight:300; letter-spacing:0.2px; }
+	p { margin: 0 0 20px 0; color:#595959; font-size:24px; line-height:36px; font-weight:300; letter-spacing:0.2px; }
 	p img { margin: 0; }
 	p.lead { font-size: 21px; line-height: 27px; color: #818a92;  }
 	p.magic { font-size: 19px; line-height: 25px; margin: 0; }
@@ -105,7 +105,7 @@
 
 
 	.underline {  background: transparent url(../images/menu-bullet.png) repeat-x bottom left; display: inline; cursor: pointer;}		
-	h1.outlined { line-height: 64px; text-transform: uppercase; font-family: Helvetica, Arial, Verdana; font-size: 55px; font-weight: bold; color: #FFFFFF; text-outline: 1px 1px #00FF00; text-shadow: -1px 0 #00FF00, 0 1px #00FF00, 1px 0 #00FF00, 0 -1px #00FF00; cursor: pointer;}		
+	h1.outlined { font-size: 34px; line-height: 64px; text-transform: uppercase; font-family: Helvetica, Arial, Verdana;  font-weight: normal; color: rgba( 255, 255, 255, 1.0); text-outline: 2px 2px #00FF00; text-shadow: -1px 0 #00FF00, 0 1px #00FF00, 1px 0 #00FF00, 0 -1px #00FF00; cursor: pointer;}		
 /* Dropcaps */
     .dropcap1, .dropcap2, .dropcap3 { text-transform:uppercase; line-height:1; float: left; font-size: 44px; margin: 0 8px 0 0; font-family: Times, serif, Arial; }
 	.dropcap2, .dropcap3 {	background: #4a4a4a; color: #fff; display: block; padding:10px; border-radius:5px; margin-top: -2px; }
@@ -189,6 +189,13 @@
 		height: auto; }
 	p img { margin-bottom:14px;}
 
+	img.green-border {
+		border: solid 1px #00FF00;
+	}
+
+	img.gold-border {
+		border: solid 1px #999161;
+	}
 
 /* #Buttons
 ================================================== */
@@ -215,7 +222,7 @@
 	  font-weight: 400;
 	  font-family: 'EB Garamond', serif;
 	  text-decoration: none;
-	  text-shadow: 0 -1px rgba(0, 0, 0, .29);
+	  text-shadow: 0 -1px rgba(0, 0, 0, 0.29);
 	  cursor: pointer;
 	  margin-bottom: 21px;
 	  line-height: 1;
@@ -227,73 +234,7 @@
 		transition: background 0.18s ease;
 	   }
 
-	/*.button:hover,
-	button:hover, a.price-send:hover,
-	input[type="submit"]:hover,
-	input[type="reset"]:hover,
-	input[type="button"]:hover,
-		
-		.button.green:hover,
-	button.green:hover, 
-	input[type="submit"].green:hover,
-	input[type="reset"].green:hover,
-	input[type="button"].green:hover  {
-		border: 2px solid #999161;
-		}
 
-		.button.gold:hover,
-	button.gold:hover, 
-	input[type="submit"].gold:hover,
-	input[type="reset"].gold:hover,
-	input[type="button"].gold:hover  {
-		border: 2px solid #00ff00;
-		}
-
-
-	.button.full-width,
-	button.full-width,
-	input[type="submit"].full-width,
-	input[type="reset"].full-width,
-	input[type="button"].full-width {
-		width: 100%;
-		padding-left: 0 !important;
-		padding-right: 0 !important;
-		text-align: center; 
-		}
-		
-	 .button.large,
-	button.large,
-	input[type="submit"].large,
-	input[type="reset"].large,
-	input[type="button"].large {
-		padding: 20px 60px;
-		font-size:15px;
-		 }
-		 
-	 .button.small,
-	button.small,
-	input[type="submit"].small,
-	input[type="reset"].small,
-	input[type="button"].small {
-		padding: 10px 30px;
-		font-size: 12px;
-		 }
-	
-	
-		
-	a.button, .button.blue, .button.red, .button.cherry, .button.orchid, .button.pink, .button.orange, .button.teal {
-		 color: #fff;
-		 }
-		
-	  .button:active,
-	button:active, a.price-send:active,
-	input[type="submit"]:active,
-	input[type="reset"]:active,
-	input[type="button"]:active {
-		color: #999161;
-		opacity: 0.94;
-		 }*/
-		 
 		 
 	/* Bordered Buttons */		 
 		.button.bordered-bot,
@@ -460,11 +401,21 @@
 	.half-bottom { margin-bottom: 7px !important; }
 	.add-bottom { margin-bottom: 21px !important; }	
 
+/* #Spacing adjustments
+================================================== */
+	figcaption {margin-top: 18px; }
+
 
 
 	/* #Typography Colours
 ================================================== */
-.gold 	{ color:#999161 !important; }
+.gold 	{ color:#00FF00 !important; }
+a.green:hover	{ color: #999161 !important;}
+a.grey:hover  	{ color: #00FF00 !important;}
+a.gold:hover	{ color: #00FF00  !important; }
+
+
+.gold	{ color: #999161 !important;}
 .green	{ color: #00ff00 !important;}
 .grey 	{ color: #595959 !important;}
 .white 	{ color: #fff !important;}

@@ -99,7 +99,7 @@ else {
   jQuery(document).ready(function(){ 
  
         jQuery(window).scroll(function(){
-            if (jQuery(this).scrollTop() > 100) {
+            if (jQuery(this).scrollTop() > 1000) {
                 jQuery('.scrollup').fadeIn();
             } else {
                 jQuery('.scrollup').fadeOut();

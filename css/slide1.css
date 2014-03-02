@@ -1,13 +1,13 @@
 
 			
 
-			.ls-layer h1, .ls-layer h2, .ls-layer h3, .ls-layer h4, .ls-layer h5, .ls-layer h6 { font-weight:300;}
+			.ls-layer h1, .ls-layer h2, .ls-layer h3, .ls-layer h4, .ls-layer h5, .ls-layer h6 { text-shadow: 2px 2px rgba(0, 0, 0, 0.29) }
 			.ls-layer h2 { font-weight:300; font-size:49px;}
-			.ls-layer h1 {text-transform:uppercase; font-size:73px; font-weight:100;}
+			.ls-layer h1 {font-size:73px;}
 			.ls-layer h4 { border:1px solid #595959; border-width:2px 0; padding:16px 0; margin:40px 0;}
 			.ls-layer h3 { color:#00ff00; }
 			.ls-layer p { line-height:26px; }
-			.ls-layer a.button { padding:16px 40px; border:2px solid #fff; color:#ff; background:transparent; font-size:16px; text-shadow:none;}
+			.ls-layer a.button { padding:16px 40px; border:2px solid #fff; color:#ff; background:transparent; font-size:16px; text-shadow: 1px 1px rgba ( 255, 255, 255, 0.6);}
 
 			.l1-s1s {
 				height: 110px;
