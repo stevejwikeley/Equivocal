@@ -101,8 +101,11 @@
 	i:hover { cursor:default;}
 	a i:hover { cursor:pointer;}
 
-	h1.outlined { line-height: 64px; text-transform: uppercase; font-family: Helvetica, Arial, Verdana; font-size: 55px; font-weight: normal; color: #FFFFFF; text-outline: 1px 1px #00FF00; text-shadow: -1px 0 #00FF00, 0 1px #00FF00, 1px 0 #00FF00, 0 -1px #00FF00; background: transparent url(../images/menu-bullet.png) repeat-x bottom left; display: inline; cursor: pointer;}		
-	
+
+
+
+	.underline {  background: transparent url(../images/menu-bullet.png) repeat-x bottom left; display: inline; cursor: pointer;}		
+	h1.outlined { line-height: 64px; text-transform: uppercase; font-family: Helvetica, Arial, Verdana; font-size: 55px; font-weight: bold; color: #FFFFFF; text-outline: 1px 1px #00FF00; text-shadow: -1px 0 #00FF00, 0 1px #00FF00, 1px 0 #00FF00, 0 -1px #00FF00; cursor: pointer;}		
 /* Dropcaps */
     .dropcap1, .dropcap2, .dropcap3 { text-transform:uppercase; line-height:1; float: left; font-size: 44px; margin: 0 8px 0 0; font-family: Times, serif, Arial; }
 	.dropcap2, .dropcap3 {	background: #4a4a4a; color: #fff; display: block; padding:10px; border-radius:5px; margin-top: -2px; }
@@ -132,6 +135,9 @@
 	::selection { background: #00ff00; color: #fff; }
 	::-moz-selection { background: #00ff00; color: #fff; }
 
+/*	Local styling  */
+
+.center { text-align: center;}
 
 /* #Links
 ================================================== */
@@ -458,9 +464,10 @@
 
 	/* #Typography Colours
 ================================================== */
-.gold 	{ color:#999161 !important;; }
-.green	{ color: #00ff00 !important;;}
-.grey 	{ color: #595959 !important;;}
+.gold 	{ color:#999161 !important; }
+.green	{ color: #00ff00 !important;}
+.grey 	{ color: #595959 !important;}
+.white 	{ color: #fff !important;}
 
 button.gold:hover,  a.gold:hover  	{ color:#00ff00 !important;  border-color: #00ff00 !important;}
 button.green:hover,  a.green:hover 	{ color: #999161 !important; border-color: #999161 !important;}
