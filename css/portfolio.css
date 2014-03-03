@@ -1,7 +1,7 @@
 	/* #Portfolio Styles
 	================================================== */
 	
-	.latest-works { overflow: hidden; width: 100%; background: #f0eeed; padding: 40px 0 0; -webkit-transition: all .5s ease; -moz-transition: all .5s ease; -ms-transition: all .5s ease; -o-transition: all .5s ease; transition: all .5s ease; }
+	.latest-works { overflow: hidden; width: 100%; padding: 40px 0 0; -webkit-transition: all .5s ease; -moz-transition: all .5s ease; -ms-transition: all .5s ease; -o-transition: all .5s ease; transition: all .5s ease; }
 	.latest-works .portfolio-item { width: 22.97%; float: left; margin: 0 20px 0 0; height: auto; padding: 4px 16px; box-sizing: border-box; border: solid 1px #00ff00; }
 	.icon-top-title i { display: inline-block; color: #00ff00; font-size: 64px; }
 	.img-item { position: relative; overflow: hidden; margin-bottom: -6px; }

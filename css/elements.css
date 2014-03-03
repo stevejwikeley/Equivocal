@@ -92,11 +92,11 @@
 	ul.jcarousel-list li { float: left; list-style: none; }
 	ul.jcarousel-list li img { max-width: 100%; }
 	.jcarousel-item { display: block; }
-	.jcarousel-next, .jcarousel-prev { background-color: #818c90; width: 12px; height: 13px; padding: 5px; border-radius: 0 2px 2px 0; position: absolute; right: 0; top: -55px; cursor: pointer; -webkit-transition: all 0.2s ease; -moz-transition: all 0.2s ease; -ms-transition: all 0.2s ease; -o-transition: all 0.2s ease; transition: all 0.2s ease; }
+	.jcarousel-next, .jcarousel-prev { background-color: #00ff00; width: 12px; height: 13px; padding: 5px; border-radius: 0 2px 2px 0; position: absolute; right: 0; top: -55px; cursor: pointer; -webkit-transition: all 0.2s ease; -moz-transition: all 0.2s ease; -ms-transition: all 0.2s ease; -o-transition: all 0.2s ease; transition: all 0.2s ease; }
 	.jcarousel-prev { right: 23px; border-radius: 2px 0 0 2px; }
 	.jcarousel-next:after, .jcarousel-prev:after { position: absolute; top: 6px; right: 6px; font-family: 'icomoon'; font-size: 10px; color: #fff; content: "\e3b0"; speak: none; font-style: normal; font-weight: normal; text-transform: none; line-height: 1; -webkit-font-smoothing: antialiased; }
 	.jcarousel-prev:after { content: "\e3b2"; }
-	.jcarousel-next:hover, .jcarousel-next:active, .jcarousel-prev:hover, .jcarousel-prev:active { background-color: #da131e; }
+	.jcarousel-next:hover, .jcarousel-next:active, .jcarousel-prev:hover, .jcarousel-prev:active { background-color: #999161; }
 	.jcarousel-next-disabled, .jcarousel-next-disabled:hover, .jcarousel-prev-disabled, .jcarousel-prev-disabled:hover { background-color: #e5e8ea; cursor: auto; border-bottom-color: #e0e0e0; }
 	.related-works .jcarousel-next, .related-works .jcarousel-prev { margin-right: 10px; }
 	.related-works p { text-transform: uppercase; font-size: 12px; }
