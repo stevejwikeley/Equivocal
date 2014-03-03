@@ -55,8 +55,8 @@
 	.help-iconBox i { font-size: 48px; padding: 10px; display: inline-block; color: #6a6a6a; -webkit-transition: all .2s ease-in-out; -moz-transition: all .2s ease-in-out; -ms-transition: all .2s ease-in-out; -o-transition: all .2s ease-in-out; transition: all .2s ease-in-out; }
 	.help-box:hover { background: #fff; }
 	.help-box:hover p { color: #878787; }
-	.help-box:hover h4, .help-box:hover i { color: #e84a52; }
-	.help-box:hover .help-iconBox, .help-box:hover hr { border-color: #e84a52; }
+	.help-box:hover h4, .help-box:hover i { color: #00ff00; }
+	.help-box:hover .help-iconBox, .help-box:hover hr { border-color: #00ff00; }
 
 	
 	/*--- our client ---*/
@@ -66,7 +66,7 @@
 	.our-clients-wrap:after { content: ""; width: 120px; height: 2px; display: block; background: #efefef; position: absolute; left: 50%; bottom: -50px; margin-left: -60px; }
 	.our-clients-wrap .jcarousel-next, .our-clients-wrap .jcarousel-prev { background-color: #fff; width: 16px; height: 16px; padding: 10px; border-radius: 50%; right: auto; left: 50%; margin-left: 5px; top: -85px; border: 2px solid #b0b0b0; color: #b0b0b0; }
 	.our-clients-wrap .jcarousel-prev { margin-left: -44px; }
-	.our-clients-wrap .jcarousel-next:hover, .our-clients-wrap .jcarousel-next:active, .our-clients-wrap .jcarousel-prev:hover, .our-clients-wrap .jcarousel-prev:active { border-color: #e84a52; color: #e84a52; }
+	.our-clients-wrap .jcarousel-next:hover, .our-clients-wrap .jcarousel-next:active, .our-clients-wrap .jcarousel-prev:hover, .our-clients-wrap .jcarousel-prev:active { border-color: #00ff00; color: #00ff00; }
 	.our-clients-wrap .jcarousel-next-disabled, .our-clients-wrap .jcarousel-next-disabled:hover, .our-clients-wrap .jcarousel-prev-disabled, .our-clients-wrap .jcarousel-prev-disabled:hover { border-color: #999161; color: #999161; }
 	.our-clients-wrap .jcarousel-next:after, .our-clients-wrap .jcarousel-prev:after { position: absolute; top: 10px; right: 9px; font-family: 'icomoon'; font-size: 16px; color: inherit; }
 	.our-clients-wrap .jcarousel-prev:after { right:11px;}
@@ -93,7 +93,7 @@
 	.our-process-item:after { bottom: -12px; left: 60%; content: "\e3b4"; font-size: 16px; background: none; }
 	.our-process-item .our-process-content { position: absolute; left: 85px; overflow: hidden; }
 	.our-process-item i { width: 32px; height: 32px; color: #7d7d86; font-size: 32px; float: left; padding: 20px; border-radius: 39px; border: 3px solid #999161; -webkit-transition: all 0.2s ease; -moz-transition: all 0.2s ease; -ms-transition: all 0.2s ease; -o-transition: all 0.2s ease; transition: all 0.2s ease; }
-	.our-process-item:hover i { background: #e84a52; color: #fff; border-color: #f28d93; }
+	.our-process-item:hover i { background: #00ff00; color: #fff; border-color: #f28d93; }
 	.our-process-item h5 { font-weight: 400; font-size: 17px; margin: 16px 10px 8px 0; }
 	
 	@media only screen and (max-width: 767px) {

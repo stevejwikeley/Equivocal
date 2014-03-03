@@ -26,7 +26,7 @@
 	.side-list li:hover { background:#fdfdfd;}
 	.side-list img { float:left; width:62px; height:62px; padding:3px; background:#999161; margin-right:10px;
 	-webkit-transition: all .14s ease; -moz-transition: all .14s ease; -ms-transition: all .14s ease; -o-transition: all .14s ease; transition: all .14s ease;}
-	.side-list li:hover img { background:#e84a52;}
+	.side-list li:hover img { background:#00ff00;}
 	.side-list h5 { font-size:15px; margin:0 0 10px;}
 	.side-list p { font-size:13px;}
 	#footer .side-list ul, #footer ul.side-list { border:none;}
@@ -34,7 +34,7 @@
 	#footer .side-list li:hover { border-color:#595959;}
 	#footer .side-list h5 a { color:#b9b9b9;}
 	#footer .side-list img { background:#454545;}
-	#footer .side-list li:hover img { background:#e84a52;}
+	#footer .side-list li:hover img { background:#00ff00;}
 	#footer.litex .footer-in .side-list h5 a { color:#5e5e5e;}
 	#footer.litex .side-list img { background:#c9c9c9;}
 	.flickr-feed { padding-left:10px; margin-bottom:14px;}
@@ -57,7 +57,7 @@
 	.tagcloud a, #footer.litex .tagcloud a { line-height: 16px; padding: 4px 10px; font-size: 11px; font-weight:bold; margin: 0 5px 5px 0; min-width: 18px; border-radius: 3px; width: auto; background: #fefefe; color: #898989; display:inline-block; text-decoration: none; border:2px solid #e1e1e1; text-transform:uppercase; }
 	.tagcloud a:hover, #footer.litex .tagcloud a:hover { color: #333 ; border-color: #ffcc00; }
 	#footer .tagcloud a { padding: 7px 14px; background: #363636; margin: 3px; display: inline-block; color: #808080; border:none; }
-	#footer .tagcloud a:hover { color: #fff; background: #e84a52; }
+	#footer .tagcloud a:hover { color: #fff; background: #00ff00; }
 	#footer.litex .footer-in .tagcloud a { color: #898989;}
 	#footer.litex .footer-in .tagcloud a:hover { color: #333; background: #fff; }
 

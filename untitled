@@ -40,9 +40,7 @@
 
                <div class="twelve columns top-inf alignright">
                <hr class="vertical-space">
-               <h6 class="gold"><i class="icomoon-envelop-2"></i> <a target="blank" href="mailto: hi@manoirequivocal.com" class="gold"> hi@manoirequivocal.com<a/></h6> 
-               <h6 class="gold"><i class="icomoon-phone-2"></i> <a href="tel: +33 575858 58585" class="gold" target="blank">+33 575858 58585</a></h6>
-               <h6 class="gold"><i class="icomoon-calendar-2"></i> <a href="http://www.booking.com/hotel/fr/le-manoir-equivocal-zhi-yuan.html?aid=330843;lang=en" class="gold" target="blank">Manoir on Booking.com</a></h6>
+               <h6 class="gold"><i class="icomoon-envelop-2"></i> <a target="blank" href="mailto: hi@manoirequivocal.com" class="gold"> hi@manoirequivocal.com<a/></h6> <h6 class="gold"><i class="icomoon-phone-2"></i> <a href="tel: +33 575858 58585<" class="gold" target="blank">+33 575858 58585</a></h6>
           </div>
       </div>
 
@@ -51,14 +49,15 @@
 <nav id="nav-wrap" class="nav-wrap2 mn4">
 <div class="container">
                <ul id="nav" class="sixteen columns">
-                        <li class="current">
+            <li class="current">
                            <a href="index.html">Home</a>
                         </li>
                         <li>
                            <a href="weddings.html">Weddings</a>
                              <ul>
                                <li><a href="portfolio.html">Suppliers</a></li>
-                           </ul>
+<!--                                <li><a href="wedding-gallery.html">Gallery</a></li>
+ -->                             </ul>
                         </li>
                         <li>
                            <a href="#">Seminars & Events</a>
@@ -78,18 +77,16 @@
                         </li>
                        
                         <li>
-                           <a href="equivocal-story.html">More about Equivocal</a>
+                           <a href="portfolio.html">More about Equivocal</a>
                            <ul>
                               <li><a href="www.manoirequivocal.com" target="New">The history and vision</a></li>
                               <li><a href="http://manoirequivocal.blogspot.fr/" target="New">Our Blog</a></li>
                               <li><a href="https://www.facebook.com/permalink.php?story_fbid=314052748636224&id=202763863098447" target="New">Facebook</a></li>
+                              <li><a href="musicatthemanor.html" target="New">Practice music here</a></li>
                            </ul>
                         </li>
 
-                         <li>
-                           <a href="musicatthemanor.html">Practice Music</a>
-                          
-                        </li>
+                        
             </ul>
          </div>
    </nav>
@@ -154,70 +151,17 @@
 
          <!-- Images-->
 
-         <section class="container first-block aligncenter" >
-            <hr class="vertical-space2">
-            <h2 class="mex-title">Welcome to Manoir Equivocal</h2>
-            <h4 class="green">The perfect wedding venue in Burgundy</h4>
-            <p>Looking for wedding venues in Burgundy? Consider Manoir Equivocal, a stunning historic venue ideal for weddings, Asian weddings and celebrations both large and intimate. Manoir Equivocal is also the perfect Burgundy venue choice for business meetings, seminars, workshops, conferences and corporate events.</p>
-
-            <hr class="vertical-space3">
-             <div class="one_half">
-                  <figure class="our-team">
-                      <h1 class="outlined"> Weddings</h1>
-                     <a href="gardens.html"><img class="gold-border" src="images/weddings.jpg" alt=""></a>
-                     <figcaption>
-
-                        <h5>A perfect place to have your wedding</h5>
-                     </figcaption>
-                  </figure>
-            </div> 
-            <div class="one_half column-last">
-               <figure class="our-team">
-                     <h1 class="outlined"> Corporate events</h1>
-                     <a href="cottage.html"><img class="gold-border" src="images/corporateevent.jpg" alt=""></a>
-                     <figcaption>
-                          
-                        
-                        <h5>Hold business meetings, seminars, workshops</h5>
-                     </figcaption>
-                  </figure>
-            </div>
-            <div class="one_half">
-                  <figure class="our-team">
-                        <h1 class="outlined"> Accommodation</h1>
-                     <a href="dovecote.html"><img class="gold-border"src="images/accomodation.jpg" alt=""></a>
-                     <figcaption>
-                        <h5>We have a luxurious B&B, with traditional bed rooms, and a cottage</h5>
-                     </figcaption>
-                  </figure>
-            </div>
-            <div class="one_half column-last">
-             <figure class="our-team">
-                     <h1 class="outlined">Cultural events
-                          
-                        </h1>
-                     <a href="bnb.html"><img class="gold-border" src="images/cultural.jpg" alt="">
-                   <figcaption>
-                        
-                        <h5>Host your event here. In the past we've had exhibitions, tea ceremonies, yoga classes, music performances and culinary events </h5>
-                        
-                     </figcaption></a>
-                  </figure>
-            </div>
-
-            <hr class="vertical-space1">
-         </section>
-         
-         <!-- End of images -->
+        
 
           <section class="container first-block aligncenter" >
             <hr class="vertical-space2">
-            <h2 class="mex-title">Where we are</h2>
+            <h2 class="mex-title">Playing music at the manor</h2>
+            <p>Because we like to see musicans have space to practice and develop their talents, we offer the manoir when it's not booked to be open to musicans.</p>
+            <iframe src="https://le-piano-equivocal.youcanbook.me/?noframe=true&skipHeaderFooter=true" style="width:100%;height:1000px;border:0px;background-color:transparent;" frameborder="0" allowtransparency="true" onload="keepInView(this);"></iframe>
 
-            <iframe style=" border: solid 1px #00ff00" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2717.3180803376385!2d4.96415425!3d47.0732257!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x36496b298ffd9f1!2sLe+Manoir+Equivocal!5e0!3m2!1sen!2suk!4v1393787176688" width="100%" height="450" frameborder="0" style="border:0"></iframe>
 
-
-            </section>
+         <script>function keepInView(item) {if((document.documentElement&&document.documentElement.scrollTop)||document.body.scrollTop>item.offsetTop)item.scrollIntoView();}</script>
+         </section>
         
                     <hr class="vertical-space1">
 

@@ -62,11 +62,11 @@
 	
 	.latest-f-blog .blog-post h4 { font-size: 24px; font-weight:300; margin-bottom:14px;}
 	.blog-post a, .blog-line a { color: #2e373d; -webkit-transition: color 0.18s ease; -moz-transition: color 0.18s ease; -o-transition: color 0.18s ease; transition: color 0.18s ease; }
-	.blog-post a:hover, .blog-author span, .blog-line p a:hover { color: #e84a52; }
+	.blog-post a:hover, .blog-author span, .blog-line p a:hover { color: #00ff00; }
 	.blog-post a.readmore { color: #363f46; margin-top: 22px; }
 	.blog-post p { margin-bottom:34px;}
 	.blog-line p, .blog-line p a, .blog-post p.blog-author, .blog-post p.blog-author a { text-align: left; font-size: 12px; text-transform:uppercase; line-height: 1.6; color: #888; margin-bottom: 10px; letter-spacing: 2px;  }
-	.blog-post p.blog-cat a, .blog-line p.blog-cat a { color:#e84a52; margin-bottom:7px; letter-spacing:0.3px; font-size:14px; }
+	.blog-post p.blog-cat a, .blog-line p.blog-cat a { color:#00ff00; margin-bottom:7px; letter-spacing:0.3px; font-size:14px; }
 	.blog-line p a:hover, .blog-post p a:hover { text-decoration:underline;}
 	
 	.blog-post p strong, .blog-line p strong { font-weight:400;}
@@ -112,9 +112,9 @@
 	.blog-line img { float: right; width: 140px; height: 110px; -webkit-transition: all 0.18s ease; -moz-transition: all 0.18s ease; -o-transition: all 0.18s ease; transition: all 0.18s ease; }
 	.img-hover { position: relative; max-width: 100%; float: right; margin-left: 15px; }
 	.img-hover:before { content: ""; position: absolute; top: 0; bottom: 0; left: 0; right: 0; -webkit-box-shadow: inset 0 0 0 5px rgba(255,255,255,0.8); -moz-box-shadow: inset 0 0 0 5px rgba(255,255,255,0.8); box-shadow: inset 0 0 0 5px rgba(255,255,255,0.8); opacity: 1; -webkit-transition: all 0.18s ease; -moz-transition: all 0.18s ease; -o-transition: all 0.18s ease; transition: all 0.18s ease; }
-	.blog-line:hover .img-hover:before { -webkit-box-shadow: inset 0 0 0 5px #e84a52; -moz-box-shadow: inset 0 0 0 5px #e84a52; box-shadow: inset 0 0 0 5px #e84a52; }
+	.blog-line:hover .img-hover:before { -webkit-box-shadow: inset 0 0 0 5px #00ff00; -moz-box-shadow: inset 0 0 0 5px #00ff00; box-shadow: inset 0 0 0 5px #00ff00; }
 	.blog-line h4 { font-size: 17px; letter-spacing: 0; font-weight: 400; margin-bottom: 10px; line-height:1.4; }
-	.blog-line:hover h4 a { color: #e84a52; }
+	.blog-line:hover h4 a { color: #00ff00; }
 	a.readmore { position: relative; margin: 4px 0 3px 1px; -webkit-transition: all 0.17s ease-in-out; -moz-transition: all 0.17s ease-in-out; -ms-transition: all 0.17s ease-in-out; -o-transition: all 0.17s ease-in-out; transition: all 0.17s ease-in-out; border:2px solid #999161; padding: 6px 32px 6px 22px; border-radius: 4px; color: #363f46; box-shadow: 0 0 0 0; font-size: 12px; text-transform: capitalize; }
 	a.readmore:after, a.magicmore:after, a.addtocart:before, a.select-options:before { position: absolute; right: 10px; top: 9px; font-family: 'icomoon'; font-size: 11px; color: #363f46; content: "\e3c2"; speak: none; font-style: normal; font-weight: normal; text-transform: none; line-height: 1; -webkit-font-smoothing: antialiased; }
 	a.readmore:hover { border-color: #363f46; }

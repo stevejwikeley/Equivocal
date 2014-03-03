@@ -88,7 +88,7 @@ color: #595959; font-weight:400; border:0 none; text-transform:capitalize; line-
 	@media only screen and (max-width: 767px) { 
 	
 			/* nav-wrap */
-	#nav-wrap {	position: relative; height:30px; text-align:center; margin:0 0 32px 0; }
+	#nav-wrap {	position: relative; height: 9px;text-align: center;margin: 0 0 32px 0;border-top: 1px solid #00ff00; }
 	#header.super-fixed .nav-wrap1 { height:30px; }
 
 	/* menu icon */

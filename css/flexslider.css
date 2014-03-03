@@ -56,7 +56,7 @@ html[xmlns] .slides {display: block; position:relative;}
 .flex-direction-nav .flex-prev {left: 0x; border-radius: 0 4px 4px 0;}
 .flexslider:hover .flex-next {opacity: 0.8; }
 .flexslider:hover .flex-prev {opacity: 0.8; }
-.flexslider:hover .flex-next:hover, .flexslider:hover .flex-prev:hover {opacity: 1; background-color: #0c78b8;}
+.flexslider:hover .flex-next:hover, .flexslider:hover .flex-prev:hover {opacity: 1; background-color: #00ff00}
 .flex-direction-nav .flex-disabled {opacity: .3!important; filter:alpha(opacity=30); cursor: default;}
 
 /* Control Nav */
