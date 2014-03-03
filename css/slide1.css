@@ -41,6 +41,6 @@
 			
 			@media screen and (max-width: 1024px) {
 			
-			.ls-layer h1, .ls-layer h3 { left:0; margin-left:100px;}
+			.ls-layer h1, .ls-layer h3 { font-size: 33px; left:0; margin-left:100px;}
 			
 			}
