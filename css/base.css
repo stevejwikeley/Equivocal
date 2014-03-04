@@ -138,6 +138,7 @@
 /*	Local styling  */
 
 .center { text-align: center;}
+.border-top { border-top: solid 1px #999161;}
 
 /* #Links
 ================================================== */
@@ -300,6 +301,11 @@
 		 color: #00ff00;
 		}
 		 
+
+
+
+
+
 		 
 	/* Buttons icon */
 	.button i,
