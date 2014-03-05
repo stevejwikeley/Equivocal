@@ -15,14 +15,12 @@
 	div.pp_default .pp_bottom .pp_middle,
 	div.pp_default .pp_bottom .pp_right { height: 13px; }
 	
-	div.pp_default .pp_top .pp_left { background: url(../images/prettyPhoto/default/sprite.png) -78px -93px no-repeat; } /* Top left corner */
-	div.pp_default .pp_top .pp_middle { background: url(../images/prettyPhoto/default/sprite_x.png) top left repeat-x; } /* Top pattern/color */
-	div.pp_default .pp_top .pp_right { background: url(../images/prettyPhoto/default/sprite.png) -112px -93px no-repeat; } /* Top right corner */
+
 	
 	div.pp_default .pp_content .ppt { color: #f8f8f8; }
-	div.pp_default .pp_content_container .pp_left { background: url(../images/prettyPhoto/default/sprite_y.png) -7px 0 repeat-y; padding-left: 13px; }
-	div.pp_default .pp_content_container .pp_right { background: url(../images/prettyPhoto/default/sprite_y.png) top right repeat-y; padding-right: 13px; }
-	div.pp_default .pp_content { background-color: #fff; } /* Content background */
+
+div.pp_default .pp_content { background-color: #fff; border: 1px solid #00ff00; padding: 10px; }
+
 	div.pp_default .pp_next:hover { background: url(../images/prettyPhoto/default/sprite_next.png) center right  no-repeat; cursor: pointer; } /* Next button */
 	div.pp_default .pp_previous:hover { background: url(../images/prettyPhoto/default/sprite_prev.png) center left no-repeat; cursor: pointer; } /* Previous button */
 	div.pp_default .pp_expand { background: url(../images/prettyPhoto/default/sprite.png) 0 -29px no-repeat; cursor: pointer; width: 28px; height: 28px; } /* Expand button */
@@ -53,9 +51,6 @@
 
 	div.pp_default .pp_description{ font-size: 11px; font-weight: bold; line-height: 14px; margin: 5px 50px 5px 0; }
 
-	div.pp_default .pp_bottom .pp_left { background: url(../images/prettyPhoto/default/sprite.png) -78px -127px no-repeat; } /* Bottom left corner */
-	div.pp_default .pp_bottom .pp_middle { background: url(../images/prettyPhoto/default/sprite_x.png) bottom left repeat-x; } /* Bottom pattern/color */
-	div.pp_default .pp_bottom .pp_right { background: url(../images/prettyPhoto/default/sprite.png) -112px -127px no-repeat; } /* Bottom right corner */
 
 	div.pp_default .pp_loaderIcon { background: url(../images/prettyPhoto/default/loader.gif) center center no-repeat; } /* Loader icon */
 
@@ -213,13 +208,8 @@
 		Facebook style Theme
 	----------------------------------- */
 	
-	div.facebook .pp_top .pp_left { background: url(../images/prettyPhoto/facebook/sprite.png) -88px -53px no-repeat; } /* Top left corner */
-	div.facebook .pp_top .pp_middle { background: url(../images/prettyPhoto/facebook/contentPatternTop.png) top left repeat-x; } /* Top pattern/color */
-	div.facebook .pp_top .pp_right { background: url(../images/prettyPhoto/facebook/sprite.png) -110px -53px no-repeat; } /* Top right corner */
-	
 	div.facebook .pp_content .ppt { color: #000; }
-	div.facebook .pp_content_container .pp_left { background: url(../images/prettyPhoto/facebook/contentPatternLeft.png) top left repeat-y; } /* Content background */
-	div.facebook .pp_content_container .pp_right { background: url(../images/prettyPhoto/facebook/contentPatternRight.png) top right repeat-y; } /* Content background */
+
 	div.facebook .pp_content { background: #fff; } /* Content background */
 	div.facebook .pp_expand { background: url(../images/prettyPhoto/facebook/sprite.png) -31px -26px no-repeat; cursor: pointer; } /* Expand button */
 	div.facebook .pp_expand:hover { background: url(../images/prettyPhoto/facebook/sprite.png) -31px -47px no-repeat; cursor: pointer; } /* Expand button hover */
@@ -242,10 +232,6 @@
 	
 	div.facebook .pp_next:hover { background: url(../images/prettyPhoto/facebook/btnNext.png) center right no-repeat; cursor: pointer; } /* Next button */
 	div.facebook .pp_previous:hover { background: url(../images/prettyPhoto/facebook/btnPrevious.png) center left no-repeat; cursor: pointer; } /* Previous button */
-	
-	div.facebook .pp_bottom .pp_left { background: url(../images/prettyPhoto/facebook/sprite.png) -88px -80px no-repeat; } /* Bottom left corner */
-	div.facebook .pp_bottom .pp_middle { background: url(../images/prettyPhoto/facebook/contentPatternBottom.png) top left repeat-x; } /* Bottom pattern/color */
-	div.facebook .pp_bottom .pp_right { background: url(../images/prettyPhoto/facebook/sprite.png) -110px -80px no-repeat; } /* Bottom right corner */
 
 
 /* ------------------------------------------------------------------------
@@ -255,7 +241,7 @@
 	div.pp_pic_holder a:focus { outline:none; }
 
 	div.pp_overlay {
-		background: #000;
+		background: #fff;
 		display: none;
 		left: 0;
 		position: absolute;
