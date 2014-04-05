@@ -21,12 +21,12 @@
 	/* nav link Header2 */
 	.nav-wrap2 #nav { float:left; margin-bottom:0; }
 	.nav-wrap2 #nav li { margin:0; }
-	.nav-wrap2 #nav > li > a { padding: 20px 20px 15px; font-size: 18px; color: #595959; line-height:18px; font-weight:400; text-align:left;  }
+	.nav-wrap2 #nav > li > a { padding: 20px 20px 15px; font-size: 16px; color: #595959; line-height:18px; font-weight:400; text-align:left;  }
 	.nav-wrap2 #nav > li:first-child > a { }
 	#nav a span, #nav a:after { margin-top:6px; display:block; font-size:11px;  color:#919191; text-transform:lowercase; font-weight:400;  }
 	#nav a:after  { content: attr(data-description);}
 	.nav-wrap1 #nav a:after, .nav-wrap2.mn4 #nav a:after { content:""; display:none; }
-	.nav-wrap2.mn4 #nav > li > a { padding:16px 20px;}
+	.nav-wrap2.mn4 #nav > li > a { padding:16px 16px;}
 	
 	.nav-wrap2.darknavi { background: #333; border-top:2px solid #202020; border-bottom-color: #222;}
 	.nav-wrap2.darknavi #nav > li > a { color:#fff; background:#333; border-color:#222;}
