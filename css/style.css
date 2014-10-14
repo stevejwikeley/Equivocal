@@ -14,49 +14,7 @@
 	@import url('./elements.css'); /* Import Elements stylesheet */
 	@import url('./blox.css'); /* Import Full width Sections + Parallax Stylesheet */
 	@import url('./blog.css'); /* Import Blog stylesheet */
-	@import url('./        <section id="hero" class="tbg1">
-            <div id="layerslider-container-fw">
-               <div id="layerslider" style="width: 100%; height: 530px; margin: 0px auto;">
-    
-                  <div class="ls-layer" style="slidedirection: left; slidedelay: 5000; durationin: 1500; durationout: 1500;">
-                     <img src="images/slide-pics/dovecote-01.jpg" class="ls-bg" alt="">
-                     <div class="ls-s1 " style=" position: absolute; top:80%; left: 50%;  slideoutdirection : left; durationin : 0; durationout : 750; easingin : easeInOutQuint; easingout : easeInBack; delayin : 400;">
-                       </div>                        
-                  </div>
-
-                  <div class="ls-layer" style=" slideoutdirection : left; slidedelay: 5000; durationin: 1500; durationout: 1500;">
-                     <img src="images/slide-pics/dovecote-02.jpg" class="ls-bg" alt=""> 
-
-                     <div class="ls-s1" style=" position: absolute; top:80%; left: 50%; slideoutdirection : left; durationin : 0; durationout : 750; easingin : easeInOutQuint; easingout : easeInBack; delayin : 400;">
-                     </div>
-                  </div>
-
-                 
-                  
-                  </div>
-               </div>
-slide-picslio.css'); /* Import         <section id="hero" class="tbg1">
-            <div id="layerslider-container-fw">
-               <div id="layerslider" style="width: 100%; height: 530px; margin: 0px auto;">
-    
-                  <div class="ls-layer" style="slidedirection: left; slidedelay: 5000; durationin: 1500; durationout: 1500;">
-                     <img src="images/slide-pics/dovecote-01.jpg" class="ls-bg" alt="">
-                     <div class="ls-s1 " style=" position: absolute; top:80%; left: 50%;  slideoutdirection : left; durationin : 0; durationout : 750; easingin : easeInOutQuint; easingout : easeInBack; delayin : 400;">
-                       </div>                        
-                  </div>
-
-                  <div class="ls-layer" style=" slideoutdirection : left; slidedelay: 5000; durationin: 1500; durationout: 1500;">
-                     <img src="images/slide-pics/dovecote-02.jpg" class="ls-bg" alt=""> 
-
-                     <div class="ls-s1" style=" position: absolute; top:80%; left: 50%; slideoutdirection : left; durationin : 0; durationout : 750; easingin : easeInOutQuint; easingout : easeInBack; delayin : 400;">
-                     </div>
-                  </div>
-
-                 
-                  
-                  </div>
-               </div>
-slide-picslio Stylesheet */
+	@import url('./portfolio.css'); /* Import Portfolio Stylesheet */
 	@import url('./pages.css'); /* Import Pages stylesheet */
 	@import url('./icon-box.css'); /* Import Icon Boxes stylesheet */
 	@import url('./shop.css'); /* Import Shop stylesheet */
@@ -467,28 +425,7 @@ slide-picslio Stylesheet */
 	.page-subtitle { left: 0; padding: 10px 0 0 20px; bottom: 0; border-bottom: 2px solid #e8edee; margin-bottom: 20px; height: auto; width: auto; clear: both; background: #fdfdfd; border-radius: 0; }
 	.contact-form .txbx { width: 338px; }
 	.pricing-table .plans-f-list.respo { display: inline; visibility: visible; }
-	.jcarousel-item, .last-project .        <section id="hero" class="tbg1">
-            <div id="layerslider-container-fw">
-               <div id="layerslider" style="width: 100%; height: 530px; margin: 0px auto;">
-    
-                  <div class="ls-layer" style="slidedirection: left; slidedelay: 5000; durationin: 1500; durationout: 1500;">
-                     <img src="images/slide-pics/dovecote-01.jpg" class="ls-bg" alt="">
-                     <div class="ls-s1 " style=" position: absolute; top:80%; left: 50%;  slideoutdirection : left; durationin : 0; durationout : 750; easingin : easeInOutQuint; easingout : easeInBack; delayin : 400;">
-                       </div>                        
-                  </div>
-
-                  <div class="ls-layer" style=" slideoutdirection : left; slidedelay: 5000; durationin: 1500; durationout: 1500;">
-                     <img src="images/slide-pics/dovecote-02.jpg" class="ls-bg" alt=""> 
-
-                     <div class="ls-s1" style=" position: absolute; top:80%; left: 50%; slideoutdirection : left; durationin : 0; durationout : 750; easingin : easeInOutQuint; easingout : easeInBack; delayin : 400;">
-                     </div>
-                  </div>
-
-                 
-                  
-                  </div>
-               </div>
-slide-picslio-item { max-width: 210px; height: 157px; float: left; }
+	.jcarousel-item, .last-project .portfolio-item { max-width: 210px; height: 157px; float: left; }
 	.pin-box { width: 166px; width: 164px\9; }
 	#tline-content { width: 460px; }
 	.tline-box { width: 165px; }
@@ -516,28 +453,7 @@ slide-picslio-item { max-width: 210px; height: 157px; float: left; }
 	.pricing-table ul li { width: 124px; padding: 5px; }
 	.pricing-table ul li.plan-header, .pricing-table ul li .plan-title, .pricing-table ul li .plan-price { max-width: 136px; }
 	.pricing-table ul li.plan-footer { max-width: 114px; }
-	.        <section id="hero" class="tbg1">
-            <div id="layerslider-container-fw">
-               <div id="layerslider" style="width: 100%; height: 530px; margin: 0px auto;">
-    
-                  <div class="ls-layer" style="slidedirection: left; slidedelay: 5000; durationin: 1500; durationout: 1500;">
-                     <img src="images/slide-pics/dovecote-01.jpg" class="ls-bg" alt="">
-                     <div class="ls-s1 " style=" position: absolute; top:80%; left: 50%;  slideoutdirection : left; durationin : 0; durationout : 750; easingin : easeInOutQuint; easingout : easeInBack; delayin : 400;">
-                       </div>                        
-                  </div>
-
-                  <div class="ls-layer" style=" slideoutdirection : left; slidedelay: 5000; durationin: 1500; durationout: 1500;">
-                     <img src="images/slide-pics/dovecote-02.jpg" class="ls-bg" alt=""> 
-
-                     <div class="ls-s1" style=" position: absolute; top:80%; left: 50%; slideoutdirection : left; durationin : 0; durationout : 750; easingin : easeInOutQuint; easingout : easeInBack; delayin : 400;">
-                     </div>
-                  </div>
-
-                 
-                  
-                  </div>
-               </div>
-slide-picslio-item { margin-bottom: 14px; }
+	.portfolio-item { margin-bottom: 14px; }
 	.commentin { width: 92%; }
 	
 	#tline-content { width: 300px; }
