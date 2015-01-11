@@ -40,13 +40,13 @@
    <header id="header"> 
     <div class="container "> 
      <div class="four columns logo">
-      <a href="index.php"><img src="images/logo.png" width="150" id="img-logo" alt="logo" /></a>
+      <a href="index.html"><img src="images/logo.png" width="150" id="img-logo" alt="logo" /></a>
      </div> 
      <div class="twelve columns top-inf alignright"> 
       <hr class="vertical-space" /> 
       <h6 class="gold"> <i class="icomoon-envelop-2"></i> <a target="blank" href="mailto: irene@manoirequivocal.com" class="gold"> irene@manoirequivocal.com </a><a></a> </h6> 
       <h6 class="gold"><i class="icomoon-phone-2"></i> <a href="tel: +33640239463" class="gold" target="blank">+33640239463</a></h6> 
-      <h6 class="gold"> <i class=""></i> <a data-l10n-id="directions"  href="http://www.booking.com/hotel/fr/le-manoir-equivocal-zhi-yuan.php?aid=330843;lang=en" class="gold" target="blank"></a> </h6>
+      <h6 class="gold"> <i class=""></i> <a data-l10n-id="directions"  href="http://www.booking.com/hotel/fr/le-manoir-equivocal-zhi-yuan.html?aid=330843;lang=en" class="gold" target="blank"></a> </h6>
      </div> 
     </div> 
     <!-- Navigation starts
@@ -54,37 +54,37 @@
     <nav id="nav-wrap" class="nav-wrap2 mn4"> 
      <div class="container"> 
       <ul id="nav" class="sixteen columns"> 
-       <li> <a data-l10n-id="Home" href="index.php"></a> </li> 
-       <li class="current"> <a data-l10n-id="Accomodation" href="accomodation.php"></a> 
+       <li> <a data-l10n-id="Home" href="index.html"></a> </li> 
+       <li class="current"> <a data-l10n-id="Accomodation" href="accomodation.html"></a> 
         <ul> 
-         <li><a data-l10n-id="cottage" href="cottage.php"> </a> </li> 
-         <li><a data-l10n-id="bnb" href="bnb.php"></a></li> 
-         <li><a data-l10n-id="dovecote" href="dovecote.php"> </a> </li> 
+         <li><a data-l10n-id="cottage" href="cottage.html"> </a> </li> 
+         <li><a data-l10n-id="bnb" href="bnb.html"></a></li> 
+         <li><a data-l10n-id="dovecote" href="dovecote.html"> </a> </li> 
         </ul> </li> 
-       <li> <a data-l10n-id="EventSpaces" href="rentingspaces.php"></a> 
+       <li> <a data-l10n-id="EventSpaces" href="rentingspaces.html"></a> 
         <ul> 
-         <li><a data-l10n-id="gf" href="downstairs.php"></a></li> 
-         <li><a data-l10n-id="barn" href="barn.php"></a></li> 
-         <li><a data-l10n-id="gardens" href="gardens.php"></a></li> 
-         <li><a data-l10n-id="courtyard" href="courtyard.php"></a></li> 
+         <li><a data-l10n-id="gf" href="downstairs.html"></a></li> 
+         <li><a data-l10n-id="barn" href="barn.html"></a></li> 
+         <li><a data-l10n-id="gardens" href="gardens.html"></a></li> 
+         <li><a data-l10n-id="courtyard" href="courtyard.html"></a></li> 
         </ul> </li> 
-       <li> <a data-l10n-id="Weddings" href="weddings.php"></a> 
+       <li> <a data-l10n-id="Weddings" href="weddings.html"></a> 
         <ul> 
-         <li><a data-l10n-id="Weddings1" href="weddings.php"></a></li> 
-         <li><a data-l10n-id="Weddings2" href="partnering-companies.php"></a></li> 
+         <li><a data-l10n-id="Weddings1" href="weddings.html"></a></li> 
+         <li><a data-l10n-id="Weddings2" href="partnering-companies.html"></a></li> 
         </ul> </li> 
-       <li> <a data-l10n-id="SeminarsEvents" href="corporateevents.php"></a> 
+       <li> <a data-l10n-id="SeminarsEvents" href="corporateevents.html"></a> 
         <ul> 
-         <li><a data-l10n-id="SeminarsEvents1" href="plan-your-event.php"></a></li> 
-         <li><a data-l10n-id="SeminarsEvents2" href="activities.php"></a></li> 
+         <li><a data-l10n-id="SeminarsEvents1" href="plan-your-event.html"></a></li> 
+         <li><a data-l10n-id="SeminarsEvents2" href="activities.html"></a></li> 
         </ul> </li> 
-       <li> <a data-l10n-id="AboutEquivocal" href="equivocal-story.php"></a> 
+       <li> <a data-l10n-id="AboutEquivocal" href="equivocal-story.html"></a> 
         <ul> 
-         <li><a data-l10n-id="AboutEquivocal1" href="equivocal-story.php"></a></li> 
+         <li><a data-l10n-id="AboutEquivocal1" href="equivocal-story.html"></a></li> 
          <li> <a data-l10n-id="AboutEquivocal2" href="https://www.facebook.com/pages/Le-Manoir-Equivocal-%E6%AD%A2%E5%9B%AD/202763863098447#" target="New"> </a> </li> 
-         <li> <a data-l10n-id="AboutEquivocal3" href="musicatthemanor.php"></a></li> 
+         <li> <a data-l10n-id="AboutEquivocal3" href="musicatthemanor.html"></a></li> 
         </ul> </li> 
-       <li><a data-l10n-id="OurBlog" href="eqblog.php" target="New"></a></li>  
+       <li><a data-l10n-id="OurBlog" href="eqblog.html" target="New"></a></li>  
       </ul> 
      </div> 
     </nav> 
@@ -155,7 +155,7 @@
             <h2  data-l10n-id="header" class="mex-title"></h2>
             <h4  data-l10n-id="subtitle" class="green"> </h4>
             <p data-l10n-id="short-description" ></p>
-            <a href="http://www.booking.com/hotel/fr/le-manoir-equivocal-zhi-yuan.php?aid=330843;lang=en" target="blank"><button type="button" class="small green bordered-bot" data-l10n-id="CheckAvailability">></button> </a>
+            <a href="http://www.booking.com/hotel/fr/le-manoir-equivocal-zhi-yuan.html?aid=330843;lang=en" target="blank"><button type="button" class="small green bordered-bot" data-l10n-id="CheckAvailability">></button> </a>
 
 
 
@@ -164,7 +164,7 @@
              
             <div class="one_third">
                <figure class="our-team">
-                     <a href="cottage.php"><img src="images/cottage.jpg" alt=""></a>
+                     <a href="cottage.html"><img src="images/cottage.jpg" alt=""></a>
                      <figcaption>
                         <h3><strong data-l10n-id="cottage">
                            </strong>
@@ -175,7 +175,7 @@
             </div>
             <div class="one_third">
                   <figure class="our-team">
-                     <a href="dovecote.php"><img src="images/ourteam-new2.jpg" alt=""></a>
+                     <a href="dovecote.html"><img src="images/ourteam-new2.jpg" alt=""></a>
                      <figcaption>
                         <h3><strong data-l10n-id="dovecote">
                            </strong>
@@ -188,7 +188,7 @@
             </div>
             <div class="one_third column-last">
              <figure class="our-team">
-                     <a href="bnb.php"><img src="images/ourteam-new3.jpg" alt="">
+                     <a href="bnb.html"><img src="images/ourteam-new3.jpg" alt="">
                    <figcaption>
                         <h3><strong data-l10n-id="bnb">
                            </strong>

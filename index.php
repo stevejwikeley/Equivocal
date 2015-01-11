@@ -1,4 +1,7 @@
 <?php include ('_header.php'); ?>
+
+
+
                   <section id="hero" class="tbg1">
             <div id="layerslider-container-fw">
                <div id="layerslider" style="width: 100%; height: 530px; margin: 0px auto;">
@@ -76,7 +79,7 @@
              <div class="one_half">
                   <figure class="our-team">
                       <h1 data-l10n-id="Weddings" class="outlined"></h1>
-                     <a href="weddings.php"><img class="gold-border" src="images/weddings.jpg" alt=""></a>
+                     <a href="weddings.html"><img class="gold-border" src="images/weddings.jpg" alt=""></a>
                      <figcaption>
 
                         <h5 data-l10n-id="Weddings-short-description"></h5>
@@ -86,7 +89,7 @@
             <div class="one_half column-last">
                <figure class="our-team">
                      <h1 data-l10n-id="SeminarsEvents"class="outlined"></h1>
-                     <a href="corporateevents.php"><img class="gold-border" src="images/corporateevent.jpg" alt=""></a>
+                     <a href="corporateevents.html"><img class="gold-border" src="images/corporateevent.jpg" alt=""></a>
                      <figcaption>
                           
                         
@@ -97,7 +100,7 @@
             <div class="one_half">
                   <figure class="our-team">
                         <h1 data-l10n-id="Accomodation" class="outlined"></h1>
-                     <a href="dovecote.php"><img class="gold-border"src="images/cottage-1.jpg" alt=""></a>
+                     <a href="dovecote.html"><img class="gold-border"src="images/cottage-1.jpg" alt=""></a>
                      <figcaption>
                         <h5 data-l10n-id="Accomodation-short-description"></h5>
                      </figcaption>
@@ -106,7 +109,7 @@
             <div class="one_half column-last">
              <figure class="our-team">
                      <h1 data-l10n-id="CulturalEvents" class="outlined"> </h1>
-                     <a href="corporateevents.php"><img class="gold-border" src="images/cultural.jpg" alt="">
+                     <a href="corporateevents.html"><img class="gold-border" src="images/cultural.jpg" alt="">
                    <figcaption>
                         
                         <h5 data-l10n-id="CulturalEvents-short-description"> </h5>
@@ -259,53 +262,6 @@
             <hr class="vertical-space1">
 
             <hr class="vertical-space3">
+ 
 
-            <section class="footbot">
-               <div class="container">
-                  
-
-               </div>
-               <!-- footer-navigation /end -->
-            </section>
-            <!-- end-footbot -->
-         </footer>
-         <!-- end-footer -->
-         <span id="scroll-top"><a class="scrollup"><img src="images/back-home-en.png" alt=""></a></span>  
-
-      </div>
-
-<!--                <div class="footer-navi">© 2013 <a href="">Manoir Equivocal</a> All Rights Reserved. 2014</div>
- -->
-      <!-- end-wrap -->
-      <!-- End Document
-         ================================================== -->
-      <script src="js/jquery.jcarousel.min.js"></script>
-      <script src="layerslider/jQuery/jquery-easing-1.3.js" type="text/javascript"></script>
-      <script src="layerslider/js/layerslider.kreaturamedia.jquery.js" type="text/javascript"></script>
-      <script type="text/javascript">
-         $(document).ready(function(){
-         $('#layerslider').layerSlider({
-         skinsPath : 'layerslider/skins/',
-         skin : 'florida',
-         navStartStop        : false,
-         thumbnailNavigation : 'hover',
-         hoverPrevNext : true,
-         responsive : true,
-         responsiveUnder : 1200,
-         thumbnailNavigation : false,
-         sublayerContainer : 1200
-         });
-         });    
-      </script>
-      <script type="text/javascript" src="js/doubletaptogo.js" ></script>
-      <script defer src="js/jquery.flexslider-min.js"></script>
-      <script src="js/bootstrap-alert.js"></script>
-      <script src="js/bootstrap-dropdown.js"></script>
-      <script src="js/bootstrap-tab.js"></script>
-      <script src="js/bootstrap-tooltip.js"></script>
-      <script type="text/javascript" src="js/florida-custom.js" ></script>
-      <script src="js/jquery.prettyPhoto.js" ></script>
-      <script type="text/javascript" src="js/jquery.sticky.js"></script>
-      <script type="text/javascript" src="js/jquery.easy-pie-chart.js"></script>
-   </body>
-</html>
+<?php include ('_footer.php'); ?>
