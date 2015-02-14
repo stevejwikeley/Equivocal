@@ -8,7 +8,7 @@
 </div>
 
 <div class="alignright">
-     <a href="http://www.booking.com/hotel/fr/le-manoir-equivocal-zhi-yuan.html?aid=330843;lang=en" target="blank"><button type="button" class="small green bordered-bot">Check availability</button> </a>
+     <a href="http://www.booking.com/hotel/fr/le-manoir-equivocal-zhi-yuan.php?aid=330843;lang=en" target="blank"><button type="button" class="small green bordered-bot">Check availability</button> </a>
 </div> 
 </div>
 <hr class="vertical-space2">
@@ -96,7 +96,7 @@ Integer commodo tristique odio, quis fringilla ligula aliquet ut. Maecenas sed j
 
 
 <div class="sixteen columns">
-    <script type="text/javascript" src="http://www.booking.com/general.html?tmpl=bookit;aid=330843;lang=en-us;hotel_id=272487;cc1=fr;hotel_page=le-manoir-equivocal-zhi-yuan"></script>
+    <script type="text/javascript" src="http://www.booking.com/general.php?tmpl=bookit;aid=330843;lang=en-us;hotel_id=272487;cc1=fr;hotel_page=le-manoir-equivocal-zhi-yuan"></script>
 </div>
 
 
@@ -153,43 +153,43 @@ Integer commodo tristique odio, quis fringilla ligula aliquet ut. Maecenas sed j
           <ul id="latest-projects" class="jcarousel-list jcarousel-list-horizontal" style="overflow: hidden; position: relative; top: 0px; margin: 0px; padding: 0px; left: 0px; width: 2060px;">
 
             <li class="portfolio-item four columns jcarousel-item jcarousel-item-horizontal jcarousel-item-1 jcarousel-item-1-horizontal" jcarouselindex="1" style="float: left; list-style: none;">
-              <a href="bnb.html"> <img src="images/portfo/doublebedroom650-520.jpg" alt="">
+              <a href="bnb.php"> <img src="images/portfo/doublebedroom650-520.jpg" alt="">
                 <h4><strong>B&B double bedroom</strong> </h4></a>
             </li>
 
             <li class="portfolio-item four columns jcarousel-item jcarousel-item-horizontal jcarousel-item-1 jcarousel-item-1-horizontal" jcarouselindex="1" style="float: left; list-style: none;">
-              <a href="dovecote.html"> <img src="images/portfo/dovecote.jpg" alt="">
+              <a href="dovecote.php"> <img src="images/portfo/dovecote.jpg" alt="">
                 <h4><strong>Dovecote</strong> </h4></a>
             </li>
 
             <li class="portfolio-item four columns jcarousel-item jcarousel-item-horizontal jcarousel-item-2 jcarousel-item-2-horizontal" jcarouselindex="2" style="float: left; list-style: none;">
-              <a href="cottage.html"> <img src="images/portfo/cottage.jpg" alt="">
+              <a href="cottage.php"> <img src="images/portfo/cottage.jpg" alt="">
                 <h4><strong>The cottage</strong> </h4></a>
             </li>
 
             <li class="portfolio-item four columns jcarousel-item jcarousel-item-horizontal jcarousel-item-3 jcarousel-item-3-horizontal" jcarouselindex="3" style="float: left; list-style: none;">
-              <a href="downstairs-1.html"> <img src="images/portfo/downstairs-1.jpg" alt="">
+              <a href="downstairs-1.php"> <img src="images/portfo/downstairs-1.jpg" alt="">
                 <h4><strong>The main downstairs room</strong> </h4></a>
             </li>
 
             <li class="portfolio-item four columns jcarousel-item jcarousel-item-horizontal jcarousel-item-4 jcarousel-item-4-horizontal" jcarouselindex="4" style="float: left; list-style: none;">
-              <a href="downstairs-2.html"> <img src="images/portfo/downstairs-2.jpg" alt="">
+              <a href="downstairs-2.php"> <img src="images/portfo/downstairs-2.jpg" alt="">
                 <h4><strong>The second downstairs room</strong> </h4></a>
             </li>
 
             <li class="portfolio-item four columns jcarousel-item jcarousel-item-horizontal jcarousel-item-4 jcarousel-item-4-horizontal" jcarouselindex="4" style="float: left; list-style: none;">
-              <a href="manor.html"> <img src="images/portfo/entire-manoir.jpg" alt="">
+              <a href="manor.php"> <img src="images/portfo/entire-manoir.jpg" alt="">
                 <h4><strong>The entire Manoir Equivocal</strong> </h4></a>
             </li>
 
             <li class="portfolio-item four columns jcarousel-item jcarousel-item-horizontal jcarousel-item-4 jcarousel-item-4-horizontal" jcarouselindex="4" style="float: left; list-style: none;">
-              <a href="gardens.html"> <img src="images/portfo/gardens.jpg" alt="">
+              <a href="gardens.php"> <img src="images/portfo/gardens.jpg" alt="">
                 <h4><strong>The Gardens</strong> </h4></a>
             </li>
 
             
             <!-- <li class="portfolio-item four columns jcarousel-item jcarousel-item-horizontal jcarousel-item-4 jcarousel-item-4-horizontal" jcarouselindex="4" style="float: left; list-style: none;">
-              <a href="portfolio-item.html"> <img src="images/portfo/barn.jpg" alt="">
+              <a href="portfolio-item.php"> <img src="images/portfo/barn.jpg" alt="">
                 <h4><strong>The Barn</strong> </h4></a>
             </li> -->
           </ul>

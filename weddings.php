@@ -59,9 +59,10 @@
 
          <section class="container first-block aligncenter" >
             <hr class="vertical-space2">
-        <h2>Weddings at the manor</h2>
-        <h4 class="slight">We can make very flexible packages tailored specially for you. Below you can get a taste of our We have the privilege of working with some of companies We have the privilege of working with some of companies We have the privilege of working with some of companies</h4>
-                    <hr class="vertical-space2">
+            <h2 data-l10n-id="room-name" class="mex-title"></h2>
+            <h4 data-l10n-id="short-description" class="green"></h4>
+            <p data-l10n-id="long-description"></p>
+            <hr class="vertical-space2">
 
          <a href="mailto: irene@manoirequivocal.com" target="blank"><button type="button" class="small green bordered-bot">Email for details</button> </a>
             <a href="tel: +33640239463" target="blank"><button type="button" class="small green bordered-bot">Call+33640239463</button> </a>

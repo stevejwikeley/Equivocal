@@ -50,14 +50,14 @@
             <h2 class="mex-title">Events at the manor</h2>
             <h4 class="green">We have three beautiful options </h4>
             <p>Whether you want a intimate b&b, your own private tower in the dovecote, a selfcatered cottage fro 20 people, we have them all available. </p>
-            <a href="http://www.booking.com/hotel/fr/le-manoir-equivocal-zhi-yuan.html?aid=330843;lang=en" target="blank"><button type="button" class="small green bordered-bot">Check availability</button> </a>
+            <a href="http://www.booking.com/hotel/fr/le-manoir-equivocal-zhi-yuan.php?aid=330843;lang=en" target="blank"><button type="button" class="small green bordered-bot">Check availability</button> </a>
 
             <hr class="vertical-space3">
              
              
             <div class="one_fourth">
              <figure class="our-team">
-                     <a href="bnb.html"><img src="images/ourteam-new3.jpg" alt="">
+                     <a href="bnb.php"><img src="images/ourteam-new3.jpg" alt="">
                    <figcaption>
                         <h3><strong>Double bedroom 
                            </strong>
@@ -71,7 +71,7 @@
            
             <div class="one_fourth">
                   <figure class="our-team">
-                     <a href="dovecote.html"><img src="images/cottage.jpg" alt=""></a>
+                     <a href="dovecote.php"><img src="images/cottage.jpg" alt=""></a>
                      <figcaption>
                         <h3><strong>Dovecote
                            </strong>
@@ -85,7 +85,7 @@
 
              <div class="one_fourth">
                <figure class="our-team">
-                     <a href="cottage.html"><img src="images/cottage-1.jpg" alt=""></a>
+                     <a href="cottage.php"><img src="images/cottage-1.jpg" alt=""></a>
                      <figcaption>
                         <h3><strong>The cottage
                            </strong>
@@ -97,7 +97,7 @@
 
              <div class="one_fourth column-last">
                <figure class="our-team">
-                     <a href="cottage.html"><img src="images/manor.jpg" alt=""></a>
+                     <a href="cottage.php"><img src="images/manor.jpg" alt=""></a>
                      <figcaption>
                         <h3><strong>The entire manor
                            </strong>

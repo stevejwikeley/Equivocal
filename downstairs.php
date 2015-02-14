@@ -7,7 +7,7 @@
     <h3 class="slight" data-l10n-id="short-description"></h3> 
    </div> 
    <div class="alignright"> 
-    <a href="http://www.booking.com/hotel/fr/le-manoir-equivocal-zhi-yuan.html?aid=330843;lang=en" target="blank"><button type="button" class="small green bordered-bot" data-l10n-id="CheckAvailability"></button> </a> 
+    <a href="http://www.booking.com/hotel/fr/le-manoir-equivocal-zhi-yuan.php?aid=330843;lang=en" target="blank"><button type="button" class="small green bordered-bot" data-l10n-id="CheckAvailability"></button> </a> 
    </div>  
    <hr class="vertical-space2" /> 
    <div class="sixteen columns"> 
@@ -44,7 +44,7 @@
 
 
    <div class="sixteen columns"> 
-    <script type="text/javascript" src="http://www.booking.com/general.html?tmpl=bookit;aid=330843;lang=en-us;hotel_id=272487;cc1=fr;hotel_page=le-manoir-equivocal-zhi-yuan"></script> 
+    <script type="text/javascript" src="http://www.booking.com/general.php?tmpl=bookit;aid=330843;lang=en-us;hotel_id=272487;cc1=fr;hotel_page=le-manoir-equivocal-zhi-yuan"></script> 
    </div> 
    <hr class="vertical-space2" /> 
    
@@ -71,14 +71,14 @@
      <div class="jcarousel-clip jcarousel-clip-horizontal" style="position: relative;"> 
       <ul id="latest-projects" class="jcarousel-list jcarousel-list-horizontal" style="overflow: hidden; position: relative; top: 0px; margin: 0px; padding: 0px; left: 0px; width: 2060px;"> 
        
-       <li class="portfolio-item four columns jcarousel-item jcarousel-item-horizontal jcarousel-item-4 jcarousel-item-4-horizontal" jcarouselindex="4" style="float: left; list-style: none;"> <a href="downstairs.html"> <img src="images/portfo/downstairs-2.jpg" alt="" /> <h4><strong data-l10n-id="gf"></strong> </h4></a> </li> 
+       <li class="portfolio-item four columns jcarousel-item jcarousel-item-horizontal jcarousel-item-4 jcarousel-item-4-horizontal" jcarouselindex="4" style="float: left; list-style: none;"> <a href="downstairs.php"> <img src="images/portfo/downstairs-2.jpg" alt="" /> <h4><strong data-l10n-id="gf"></strong> </h4></a> </li> 
 
-       <li class="portfolio-item four columns jcarousel-item jcarousel-item-horizontal jcarousel-item-2 jcarousel-item-2-horizontal" jcarouselindex="2" style="float: left; list-style: none;"> <a href="barn.html"> 
+       <li class="portfolio-item four columns jcarousel-item jcarousel-item-horizontal jcarousel-item-2 jcarousel-item-2-horizontal" jcarouselindex="2" style="float: left; list-style: none;"> <a href="barn.php"> 
         <img src="images/portfo/gardens.jpg" alt="" /> <h4><strong data-l10n-id="barn"> </strong> </h4></a></li> 
 
-       <li class="portfolio-item four columns jcarousel-item jcarousel-item-horizontal jcarousel-item-4 jcarousel-item-4-horizontal" jcarouselindex="4" style="float: left; list-style: none;"> <a href="gardens.html"> <img src="images/portfo/gardens.jpg" alt="" /> <h4><strong data-l10n-id="gardens"></strong> </h4></a> </li> 
+       <li class="portfolio-item four columns jcarousel-item jcarousel-item-horizontal jcarousel-item-4 jcarousel-item-4-horizontal" jcarouselindex="4" style="float: left; list-style: none;"> <a href="gardens.php"> <img src="images/portfo/gardens.jpg" alt="" /> <h4><strong data-l10n-id="gardens"></strong> </h4></a> </li> 
 
-       <li class="portfolio-item four columns jcarousel-item jcarousel-item-horizontal jcarousel-item-4 jcarousel-item-4-horizontal" jcarouselindex="4" style="float: left; list-style: none;"> <a href="courtyard.html"> <img src="images/portfo/gardens.jpg" alt="" /> <h4><strong data-l10n-id="courtyard"></strong> </h4></a> </li> 
+       <li class="portfolio-item four columns jcarousel-item jcarousel-item-horizontal jcarousel-item-4 jcarousel-item-4-horizontal" jcarouselindex="4" style="float: left; list-style: none;"> <a href="courtyard.php"> <img src="images/portfo/gardens.jpg" alt="" /> <h4><strong data-l10n-id="courtyard"></strong> </h4></a> </li> 
       </ul> 
      </div> 
      <div class="jcarousel-prev jcarousel-prev-horizontal jcarousel-prev-disabled jcarousel-prev-disabled-horizontal" disabled="disabled" style="display: block;"></div>

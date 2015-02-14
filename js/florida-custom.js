@@ -136,13 +136,13 @@ jQuery.ajax({type:'POST', url: 'php/contact.php', data:jQuery(form).serialize(),
 	 if(parseInt(response)>0)
 	   {
 		 if(jQuery(form).find("#spanMessage").length)
-		 jQuery("#spanMessage").html('<div class="alert alert-success"><button type="button" class="close" data-dismiss="alert">&times;</button><strong>Well done!</strong> Your message has been sent.</div>');
+		 jQuery("#spanMessage").php('<div class="alert alert-success"><button type="button" class="close" data-dismiss="alert">&times;</button><strong>Well done!</strong> Your message has been sent.</div>');
 		 else
 		 alert('Well done! Your message has been sent');
 	   }
 	   else{
 		 if(jQuery(form).find("#spanMessage").length)
-		 jQuery("#spanMessage").html('<div class="alert alert-error"><button type="button" class="close" data-dismiss="alert">&times;</button><strong>Error! </strong> Somthing Wrong</div>');
+		 jQuery("#spanMessage").php('<div class="alert alert-error"><button type="button" class="close" data-dismiss="alert">&times;</button><strong>Error! </strong> Somthing Wrong</div>');
 		 else
 		 alert('Somthing wrong!');
 	   }   
@@ -253,7 +253,7 @@ function progress(percent, $element) {
 	(function myLoop (i,max) {
 		progressBarWidth = i * $element.width() / 100;
 		setTimeout(function () {   
-		$element.find('div').find('small').html(i+'%');
+		$element.find('div').find('small').php(i+'%');
 		$element.find('div').width(progressBarWidth);
 		if (++i<=max) myLoop(i,max);     
 		}, 10)
@@ -390,7 +390,7 @@ jQuery(document).ready(function(){
  
  jQuery.ajax({url:"twitter/twitter.php",success:function(result){
 	
-	jQuery("#twitter").html(tz_format_twitter(result));
+	jQuery("#twitter").php(tz_format_twitter(result));
 }});
 });
 

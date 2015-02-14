@@ -1,3 +1,4 @@
+
 <?php include ('_header.php'); ?>
                   
 
@@ -64,7 +65,7 @@
             <h2  data-l10n-id="header" class="mex-title"></h2>
             <h4  data-l10n-id="subtitle" class="green"> </h4>
             <p data-l10n-id="short-description" ></p>
-            <a href="http://www.booking.com/hotel/fr/le-manoir-equivocal-zhi-yuan.html?aid=330843;lang=en" target="blank"><button type="button" class="small green bordered-bot" data-l10n-id="CheckAvailability">></button> </a>
+            <a href="http://www.booking.com/hotel/fr/le-manoir-equivocal-zhi-yuan.php?aid=330843;lang=en" target="blank"><button type="button" class="small green bordered-bot" data-l10n-id="CheckAvailability">></button> </a>
 
 
 
@@ -73,7 +74,7 @@
              
             <div class="one_third">
                <figure class="our-team">
-                     <a href="cottage.html"><img src="images/cottage.jpg" alt=""></a>
+                     <a href="cottage.php"><img src="images/cottage.jpg" alt=""></a>
                      <figcaption>
                         <h3><strong data-l10n-id="cottage">
                            </strong>
@@ -84,7 +85,7 @@
             </div>
             <div class="one_third">
                   <figure class="our-team">
-                     <a href="dovecote.html"><img src="images/ourteam-new2.jpg" alt=""></a>
+                     <a href="dovecote.php"><img src="images/ourteam-new2.jpg" alt=""></a>
                      <figcaption>
                         <h3><strong data-l10n-id="dovecote">
                            </strong>
@@ -97,7 +98,7 @@
             </div>
             <div class="one_third column-last">
              <figure class="our-team">
-                     <a href="bnb.html"><img src="images/ourteam-new3.jpg" alt="">
+                     <a href="bnb.php"><img src="images/ourteam-new3.jpg" alt="">
                    <figcaption>
                         <h3><strong data-l10n-id="bnb">
                            </strong>

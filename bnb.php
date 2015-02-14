@@ -7,7 +7,7 @@
     <h3 class="slight" data-l10n-id="short-description"></h3> 
    </div> 
    <div class="alignright"> 
-    <a href="http://www.booking.com/hotel/fr/le-manoir-equivocal-zhi-yuan.html?aid=330843;lang=en" target="blank"><button type="button" class="small green bordered-bot" data-l10n-id="CheckAvailability"></button> </a> 
+    <a href="http://www.booking.com/hotel/fr/le-manoir-equivocal-zhi-yuan.php?aid=330843;lang=en" target="blank"><button type="button" class="small green bordered-bot" data-l10n-id="CheckAvailability"></button> </a> 
    </div>  
    <hr class="vertical-space2" /> 
    <div class="sixteen columns"> 
@@ -50,7 +50,7 @@
 
 
    <div class="sixteen columns"> 
-    <script type="text/javascript" src="http://www.booking.com/general.html?tmpl=bookit;aid=330843;lang=en-us;hotel_id=272487;cc1=fr;hotel_page=le-manoir-equivocal-zhi-yuan"></script> 
+    <script type="text/javascript" src="http://www.booking.com/general.php?tmpl=bookit;aid=330843;lang=en-us;hotel_id=272487;cc1=fr;hotel_page=le-manoir-equivocal-zhi-yuan"></script> 
    </div> 
    <hr class="vertical-space2" /> 
    

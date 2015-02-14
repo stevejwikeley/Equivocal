@@ -79,7 +79,7 @@
              <div class="one_half">
                   <figure class="our-team">
                       <h1 data-l10n-id="Weddings" class="outlined"></h1>
-                     <a href="weddings.html"><img class="gold-border" src="images/weddings.jpg" alt=""></a>
+                     <a href="weddings.php"><img class="gold-border" src="images/weddings.jpg" alt=""></a>
                      <figcaption>
 
                         <h5 data-l10n-id="Weddings-short-description"></h5>
@@ -89,7 +89,7 @@
             <div class="one_half column-last">
                <figure class="our-team">
                      <h1 data-l10n-id="SeminarsEvents"class="outlined"></h1>
-                     <a href="corporateevents.html"><img class="gold-border" src="images/corporateevent.jpg" alt=""></a>
+                     <a href="corporateevents.php"><img class="gold-border" src="images/corporateevent.jpg" alt=""></a>
                      <figcaption>
                           
                         
@@ -100,7 +100,7 @@
             <div class="one_half">
                   <figure class="our-team">
                         <h1 data-l10n-id="Accomodation" class="outlined"></h1>
-                     <a href="dovecote.html"><img class="gold-border"src="images/cottage-1.jpg" alt=""></a>
+                     <a href="dovecote.php"><img class="gold-border"src="images/cottage-1.jpg" alt=""></a>
                      <figcaption>
                         <h5 data-l10n-id="Accomodation-short-description"></h5>
                      </figcaption>
@@ -109,7 +109,7 @@
             <div class="one_half column-last">
              <figure class="our-team">
                      <h1 data-l10n-id="CulturalEvents" class="outlined"> </h1>
-                     <a href="corporateevents.html"><img class="gold-border" src="images/cultural.jpg" alt="">
+                     <a href="corporateevents.php"><img class="gold-border" src="images/cultural.jpg" alt="">
                    <figcaption>
                         
                         <h5 data-l10n-id="CulturalEvents-short-description"> </h5>

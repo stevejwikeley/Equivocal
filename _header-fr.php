@@ -43,13 +43,13 @@
       <header id="header">
          
          <div  class="container ">
-            <div class="four columns logo"><a href="index.html"><img src="images/logo.png" width="150" id="img-logo" alt="logo"></a></div>
+            <div class="four columns logo"><a href="index.php"><img src="images/logo.png" width="150" id="img-logo" alt="logo"></a></div>
 
                <div class="twelve columns top-inf alignright">
                <hr class="vertical-space">
                <h6 class="gold"><i class="icomoon-envelop-2"></i> <a target="blank" href="mailto: irene@manoirequivocal.com" class="gold"> irene@manoirequivocal.com<a/></h6> 
                <h6 class="gold"><i class="icomoon-phone-2"></i> <a href="tel: +33640239463" class="gold" target="blank">+33640239463</a></h6>
-               <h6 class="gold"><i class=""></i> <a href="http://www.booking.com/hotel/fr/le-manoir-equivocal-zhi-yuan.html?aid=330843;lang=en" class="gold" target="blank">Get Directions</a>
+               <h6 class="gold"><i class=""></i> <a href="http://www.booking.com/hotel/fr/le-manoir-equivocal-zhi-yuan.php?aid=330843;lang=en" class="gold" target="blank">Get Directions</a>
                <h6 class="gold"><i class=""></i> <a href="en-index.php" class="gold" target="blank">English</a>
           </div>
       </div>
@@ -60,7 +60,7 @@
     <nav id="nav-wrap" class="nav-wrap2 mn4"> 
      <div class="container"> 
       <ul id="nav" class="sixteen columns"> 
-       <li class="current"> <a data-l10n-id="Home" href="index.php"></a> </li> 
+       <li> <a data-l10n-id="Home" href="index.php"></a> </li> 
        <li> <a data-l10n-id="Accomodation" href="accomodation.php"></a> 
         <ul> 
          <li><a data-l10n-id="cottage" href="cottage.php"> </a> </li> 

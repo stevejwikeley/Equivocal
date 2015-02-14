@@ -79,17 +79,17 @@
          <li><a data-l10n-id="Weddings1" href="en-weddings.php"></a></li> 
          <li><a data-l10n-id="Weddings2" href="en-partnering-companies.php"></a></li> 
         </ul> </li> 
-       <li> <a data-l10n-id="SeminarsEvents" href="en-corporateevents.php"></a> 
+       <!-- <li> <a data-l10n-id="SeminarsEvents" href="en-corporateevents.php"></a>  -->
         <!-- <ul> 
          <li><a data-l10n-id="SeminarsEvents1" href="en-plan-your-event.php"></a></li> 
         <li><a data-l10n-id="SeminarsEvents2" href="en-activities.php"></a></li>    
         </ul> </li> -->
        <li> <a data-l10n-id="AboutEquivocal" href="en-equivocal-story.php"></a> 
-        <ul> 
-<!--          <li><a data-l10n-id="AboutEquivocal1" href="en-equivocal-story.php"></a></li> 
- -->         <li> <a data-l10n-id="AboutEquivocal2" href="en-https://www.facebook.com/pages/Le-Manoir-Equivocal-%E6%AD%A2%E5%9B%AD/202763863098447#" target="New"> </a> </li> 
+<!--         <ul> 
+         <li><a data-l10n-id="AboutEquivocal1" href="en-equivocal-story.php"></a></li> 
+         <li> <a data-l10n-id="AboutEquivocal2" href="en-https://www.facebook.com/pages/Le-Manoir-Equivocal-%E6%AD%A2%E5%9B%AD/202763863098447#" target="New"> </a> </li> 
          <li> <a data-l10n-id="AboutEquivocal3" href="en-musicatthemanor.php"></a></li> 
-        </ul> </li> 
+        </ul> </li>  -->
        <li> </li>
        <li><a data-l10n-id="OurBlog" href="en-eqblog.php" target="New"></a></li>  
       </ul> 
