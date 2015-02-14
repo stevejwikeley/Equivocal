@@ -50,7 +50,7 @@
                <h6 class="gold"><i class="icomoon-envelop-2"></i> <a target="blank" href="mailto: irene@manoirequivocal.com" class="gold"> irene@manoirequivocal.com<a/></h6> 
                <h6 class="gold"><i class="icomoon-phone-2"></i> <a href="tel: +33640239463" class="gold" target="blank">+33640239463</a></h6>
                <h6 class="gold"><i class=""></i> <a href="http://www.booking.com/hotel/fr/le-manoir-equivocal-zhi-yuan.html?aid=330843;lang=en" class="gold" target="blank">Get Directions</a>
-               <h6 class="gold"><i class=""></i> <a href="index.php" class="gold" target="blank">English</a>
+               <h6 class="gold"><i class=""></i> <a href="en-index.php" class="gold" target="blank">English</a>
           </div>
       </div>
 
@@ -60,38 +60,38 @@
     <nav id="nav-wrap" class="nav-wrap2 mn4"> 
      <div class="container"> 
       <ul id="nav" class="sixteen columns"> 
-       <li class="current"> <a data-l10n-id="Home" href="fr-index.php"></a> </li> 
-       <li> <a data-l10n-id="Accomodation" href="fr-accomodation.php"></a> 
+       <li class="current"> <a data-l10n-id="Home" href="index.php"></a> </li> 
+       <li> <a data-l10n-id="Accomodation" href="accomodation.php"></a> 
         <ul> 
-         <li><a data-l10n-id="cottage" href="fr-cottage.php"> </a> </li> 
-         <li><a data-l10n-id="bnb" href="fr-bnb.php"></a></li> 
-         <li><a data-l10n-id="dovecote" href="fr-dovecote.php"> </a> </li> 
+         <li><a data-l10n-id="cottage" href="cottage.php"> </a> </li> 
+         <li><a data-l10n-id="bnb" href="bnb.php"></a></li> 
+         <li><a data-l10n-id="dovecote" href="dovecote.php"> </a> </li> 
         </ul> </li> 
-       <li> <a data-l10n-id="EventSpaces" href="fr-rentingspaces.php"></a> 
+       <li> <a data-l10n-id="EventSpaces" href="rentingspaces.php"></a> 
         <ul> 
-         <li><a data-l10n-id="gf" href="fr-downstairs.php"></a></li> 
-         <li><a data-l10n-id="barn" href="fr-barn.php"></a></li> 
-         <li><a data-l10n-id="gardens" href="fr-gardens.php"></a></li> 
-         <li><a data-l10n-id="courtyard" href="fr-courtyard.php"></a></li> 
+         <li><a data-l10n-id="gf" href="downstairs.php"></a></li> 
+         <li><a data-l10n-id="barn" href="barn.php"></a></li> 
+         <li><a data-l10n-id="gardens" href="gardens.php"></a></li> 
+         <li><a data-l10n-id="courtyard" href="courtyard.php"></a></li> 
         </ul> </li> 
-       <li> <a data-l10n-id="Weddings" href="fr-weddings.php"></a> 
+       <li> <a data-l10n-id="Weddings" href="weddings.php"></a> 
         <ul> 
-         <li><a data-l10n-id="Weddings1" href="fr-weddings.php"></a></li> 
-         <li><a data-l10n-id="Weddings2" href="fr-partnering-companies.php"></a></li> 
+         <li><a data-l10n-id="Weddings1" href="weddings.php"></a></li> 
+<!--          <li><a data-l10n-id="Weddings2" href="partnering-companies.php"></a></li>  -->
         </ul> </li> 
-       <li> <a data-l10n-id="SeminarsEvents" href="fr-corporateevents.php"></a> 
-        <ul> 
-         <li><a data-l10n-id="SeminarsEvents1" href="fr-plan-your-event.php"></a></li> 
-         <li><a data-l10n-id="SeminarsEvents2" href="fr-activities.php"></a></li> 
-        </ul> </li> 
-       <li> <a data-l10n-id="AboutEquivocal" href="fr-equivocal-story.php"></a> 
-        <ul> 
-         <li><a data-l10n-id="AboutEquivocal1" href="fr-equivocal-story.php"></a></li> 
-         <li> <a data-l10n-id="AboutEquivocal2" href="fr-https://www.facebook.com/pages/Le-Manoir-Equivocal-%E6%AD%A2%E5%9B%AD/202763863098447#" target="New"> </a> </li> 
-         <li> <a data-l10n-id="AboutEquivocal3" href="fr-musicatthemanor.php"></a></li> 
+       <li> <a data-l10n-id="SeminarsEvents" href="corporateevents.php"></a> 
+<!--         <ul> 
+         <li><a data-l10n-id="SeminarsEvents1" href="plan-your-event.php"></a></li> 
+         <li><a data-l10n-id="SeminarsEvents2" href="activities.php"></a></li> 
+        </ul> --> </li> 
+<!--        <li> <a data-l10n-id="AboutEquivocal" href="equivocal-story.php"></a> 
+ -->        <ul> 
+<!--          <li><a data-l10n-id="AboutEquivocal1" href="equivocal-story.php"></a></li> 
+ -->         <li> <a data-l10n-id="AboutEquivocal2" href="https://www.facebook.com/pages/Le-Manoir-Equivocal-%E6%AD%A2%E5%9B%AD/202763863098447#" target="New"> </a> </li> 
+         <li> <a data-l10n-id="AboutEquivocal3" href="musicatthemanor.php"></a></li> 
         </ul> </li> 
        <li> </li>
-       <li><a data-l10n-id="OurBlog" href="fr-eqblog.php" target="New"></a></li>  
+       <li><a data-l10n-id="OurBlog" href="eqblog.php" target="New"></a></li>  
       </ul> 
      </div> 
     </nav> 

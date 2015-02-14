@@ -1,4 +1,4 @@
-<?php include ('_header.php'); ?>
+<?php include ('_header-fr.php'); ?>
 
  <section class="container first-block aligncenter" >
             <iframe src="http://www.manoirequivocal.com/?l=en#0" style="width: 100%; height: 3000px; border: 0px; background-color: transparent; top: -201px; position: absolute; z-index: -100; left: -7%;" frameborder="0" allowtransparency="true" onload="keepInView(this);"></iframe>

@@ -1,4 +1,4 @@
-<?php include ('_header-fr.php'); ?>
+<?php include ('_header.php'); ?>
                   <section id="hero" class="tbg1">
             <div id="layerslider-container-fw">
                <div id="layerslider" style="width: 100%; height: 530px; margin: 0px auto;">

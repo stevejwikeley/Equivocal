@@ -1,4 +1,4 @@
-<?php include ('_header.php'); ?>
+<?php include ('_header-fr.php'); ?>
                   <section id="hero" class="tbg1">
             <div id="layerslider-container-fw">
                <div id="layerslider" style="width: 100%; height: 530px; margin: 0px auto;">
@@ -92,7 +92,7 @@
 
             <div class="one_third">
                <figure class="our-team">
-                     <a href="cottage.html"><img src="images/wedding-downstairs.jpg" alt=""></a>
+                     <a href="cottage.php"><img src="images/wedding-downstairs.jpg" alt=""></a>
                      <figcaption>
                        <!--  <h3><strong>The cottage
                            </strong>
@@ -103,7 +103,7 @@
             </div>
             <div class="one_third">
                   <figure class="our-team">
-                     <a href="dovecote.html"><img src="images/garden-wedding.jpg" alt=""></a>
+                     <a href="dovecote.php"><img src="images/garden-wedding.jpg" alt=""></a>
                      <figcaption>
                       <!--   <h3><strong>Dovecote
                            </strong>
@@ -116,7 +116,7 @@
             </div>
             <div class="one_third column-last">
              <figure class="our-team">
-                     <a href="bnb.html"><img src="images/wedding-barn.jpg" alt="">
+                     <a href="bnb.php"><img src="images/wedding-barn.jpg" alt="">
                    <figcaption>
                    <!--      <h3><strong>Double bedroom
                            </strong>
@@ -148,7 +148,7 @@
              
             <div class="one_half">
                   <figure class="our-team">
-                     <a href="dovecote.html"><img src="images/ourteam-new2.jpg" alt=""></a>
+                     <a href="dovecote.php"><img src="images/ourteam-new2.jpg" alt=""></a>
                      <figcaption>
                         <h3><strong>Dovecote
                            </strong>
@@ -161,7 +161,7 @@
             </div>
             <div class="one_half column-last">
              <figure class="our-team">
-                     <a href="bnb.html"><img src="images/wedding-bedroom-2.jpg" alt="">
+                     <a href="bnb.php"><img src="images/wedding-bedroom-2.jpg" alt="">
                    <figcaption>
                         <h3><strong>Double bedroom
                            </strong>
@@ -195,7 +195,7 @@
              
               <div class="one_half">
              <figure class="our-team">
-                     <a href="bnb.html"><img src="images/wedding-bedroom-1.jpg" alt="">
+                     <a href="bnb.php"><img src="images/wedding-bedroom-1.jpg" alt="">
                    <figcaption>
                         <h3><strong>Double bedroom
                            </strong>
@@ -209,7 +209,7 @@
 
             <div class="one_half column-last">
                   <figure class="our-team">
-                     <a href="cottage.html"><img src="images/cottage-1.jpg" alt=""></a>
+                     <a href="cottage.php"><img src="images/cottage-1.jpg" alt=""></a>
                      <figcaption>
                         <h3><strong>Cottage
                            </strong>

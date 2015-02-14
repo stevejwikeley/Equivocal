@@ -1,4 +1,4 @@
-<?php include ('_header-fr.php'); ?>
+<?php include ('_header.php'); ?>
   <section class="container page-content"> 
    <hr class="vertical-space2" /> 
    <div class="eleven columns portfolio-item"> 
@@ -12,38 +12,26 @@
    <div class="sixteen columns"> 
     <section id="hero" class="tbg1"> 
      <div id="layerslider-container-fw"> 
+     
       <div id="layerslider" style="width: 100%; height: 530px; margin: 0px auto;"> 
        <div class="ls-layer" style="slidedirection: left; slidedelay: 5000; durationin: 1500; durationout: 1500;"> 
-        <img src="images/portfo/dc-01.jpg" class="ls-bg" alt="" /> 
+        <img src="images/portfo/cottage-01.jpg" class="ls-bg" alt="" /> 
         <div class="ls-s1 " style=" position: absolute; top:80%; left: 50%;  slideoutdirection : left; durationin : 0; durationout : 750; easingin : easeInOutQuint; easingout : easeInBack; delayin : 400;"> 
         </div> 
        </div> 
+
        <div class="ls-layer" style=" slideoutdirection : left; slidedelay: 5000; durationin: 1500; durationout: 1500;"> 
-        <img src="images/portfo/dc-02.jpg" class="ls-bg" alt="" /> 
+        <img src="images/portfo/cottage-02.jpg" class="ls-bg" alt="" /> 
         <div class="ls-s1" style=" position: absolute; top:80%; left: 50%; slideoutdirection : left; durationin : 0; durationout : 750; easingin : easeInOutQuint; easingout : easeInBack; delayin : 400;"> 
         </div> 
        </div> 
        <div class="ls-layer" style="slideoutdirection : left; slidedelay: 5000; durationin: 1500; durationout: 1500; delayout: 500;"> 
-        <img src="images/portfo/dc-03.jpg" class="ls-bg" alt="" /> 
+        <img src="images/portfo/cottage-03.jpg" class="ls-bg" alt="" /> 
         <div class="ls-s1" style=" position: absolute; top:80%; left: 50%; slideoutdirection : left; durationin : 0; durationout : 750; easingin : easeInOutQuint; easingout : easeInBack; delayin : 400;"> 
         </div> 
-       </div> 
-       <div class="ls-layer" style=" slideoutdirection : left; slidedelay: 5000; durationin: 1500; durationout: 1500; delayout: 500;"> 
-        <img src="images/portfo/dc-04.jpg" class="ls-bg" alt="" /> 
-        <div class="ls-s1" style=" position: absolute; top:80%; left: 50%; slideoutdirection : left; durationin : 0; durationout : 750; easingin : easeInOutQuint; easingout : easeInBack; delayin : 400;"> 
         </div> 
-        <div class="ls-layer" style=" slideoutdirection : left; slidedelay: 5000; durationin: 1500; durationout: 1500; delayout: 500;"> 
-         <img src="images/portfo/dc-05.jpg" class="ls-bg" alt="" /> 
-         <div class="ls-s1" style=" position: absolute; top:80%; left: 50%;  slideoutdirection : left; durationin : 0; durationout : 750; easingin : easeInOutQuint; easingout : easeInBack; delayin : 400;"> 
-         </div> 
-         <div class="ls-layer" style=" slideoutdirection : left; slidedelay: 5000; durationin: 1500; durationout: 1500; delayout: 500;"> 
-          <img src="images/portfo/dc-06.jpg" class="ls-bg" alt="" /> 
-          <div class="ls-s1" style=" position: absolute; top:80%; left: 50%; slideoutdirection : left; durationin : 0; durationout : 750; easingin : easeInOutQuint; easingout : easeInBack; delayin : 400;"> 
-          </div> 
-         </div> 
-        </div> 
-       </div>
-      </div>
+      
+       
      </div>
     </section> 
    </div> 
@@ -77,22 +65,22 @@
   <section class="related-works"> 
    <div class="container"> 
     <div class="sixteen columns"> 
-     <h4 data-l10n-id="other-renting-spaces-title" class="subtitle"></h4> 
+     <h4 data-l10n-id="other-accomodation-title" class="subtitle"></h4> 
     </div> 
     <div class="clear"></div> 
-     <!-- Links to other renting spaces--> 
+    <!-- Links to other renting spaces--> 
     <div class="jcarousel-container jcarousel-container-horizontal" style="position: relative; display: block;"> 
      <div class="jcarousel-clip jcarousel-clip-horizontal" style="position: relative;"> 
       <ul id="latest-projects" class="jcarousel-list jcarousel-list-horizontal" style="overflow: hidden; position: relative; top: 0px; margin: 0px; padding: 0px; left: 0px; width: 2060px;"> 
+      
+
+       <li class="portfolio-item five columns jcarousel-item jcarousel-item-horizontal jcarousel-item-2 jcarousel-item-2-horizontal" jcarouselindex="2" style="float: left; list-style: none;"> <a href="cottage.html"> 
+        <img src="images/portfo/cottage.jpg" alt="" /> <h4><strong data-l10n-id="cottage"> </strong> </h4></a></li> 
        
-       <li class="portfolio-item four columns jcarousel-item jcarousel-item-horizontal jcarousel-item-4 jcarousel-item-4-horizontal" jcarouselindex="4" style="float: left; list-style: none;"> <a href="downstairs.html"> <img src="images/portfo/downstairs-2.jpg" alt="" /> <h4><strong data-l10n-id="gf"></strong> </h4></a> </li> 
+       <li class="portfolio-item five columns jcarousel-item jcarousel-item-horizontal jcarousel-item-1 jcarousel-item-1-horizontal" jcarouselindex="1" style="float: left; list-style: none;"> <a href="bnb.html"> <img src="images/portfo/doublebedroom650-520.jpg" alt="" /> <h4><strong data-l10n-id="bnb"> </strong> </h4></a></li> 
 
-       <li class="portfolio-item four columns jcarousel-item jcarousel-item-horizontal jcarousel-item-2 jcarousel-item-2-horizontal" jcarouselindex="2" style="float: left; list-style: none;"> <a href="barn.html"> 
-        <img src="images/portfo/gardens.jpg" alt="" /> <h4><strong data-l10n-id="barn"> </strong> </h4></a></li> 
+       <li class="portfolio-item five columns jcarousel-item jcarousel-item-horizontal jcarousel-item-1 jcarousel-item-1-horizontal" jcarouselindex="1" style="float: left; list-style: none;"> <a href="dovecote.html"> <img src="images/portfo/dovecote.jpg" alt="" /> <h4><strong data-l10n-id="dovecote"></strong> </h4></a> </li> 
 
-       <li class="portfolio-item four columns jcarousel-item jcarousel-item-horizontal jcarousel-item-4 jcarousel-item-4-horizontal" jcarouselindex="4" style="float: left; list-style: none;"> <a href="gardens.html"> <img src="images/portfo/gardens.jpg" alt="" /> <h4><strong data-l10n-id="gardens"></strong> </h4></a> </li> 
-
-       <li class="portfolio-item four columns jcarousel-item jcarousel-item-horizontal jcarousel-item-4 jcarousel-item-4-horizontal" jcarouselindex="4" style="float: left; list-style: none;"> <a href="courtyard.html"> <img src="images/portfo/gardens.jpg" alt="" /> <h4><strong data-l10n-id="courtyard"></strong> </h4></a> </li> 
       </ul> 
      </div> 
      <div class="jcarousel-prev jcarousel-prev-horizontal jcarousel-prev-disabled jcarousel-prev-disabled-horizontal" disabled="disabled" style="display: block;"></div>

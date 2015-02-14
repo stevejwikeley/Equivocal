@@ -1,4 +1,4 @@
-<?php include ('_header.php'); ?>
+<?php include ('_header-fr.php'); ?>
 <!--[if (gte IE 9)|!(IE)]><!-->
 <html lang="en">
  <!--<![endif]-->

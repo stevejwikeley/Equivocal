@@ -1,4 +1,4 @@
-<?php include ('_header.php'); ?>
+<?php include ('_header-fr.php'); ?>
 
 <section class="container page-content" >
 <hr class="vertical-space2">

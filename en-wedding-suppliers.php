@@ -1,4 +1,4 @@
-<?php include ('_header-fr.php'); ?>
+<?php include ('_header.php'); ?>             
 
   <section class="latest-works">     
     <hr class="vertical-space1">

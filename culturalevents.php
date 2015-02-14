@@ -1,4 +1,4 @@
-<?php include ('_header.php'); ?>
+<?php include ('_header-fr.php'); ?>
          </div>
          <!-- end-header -->
                   <section id="hero" class="tbg1">

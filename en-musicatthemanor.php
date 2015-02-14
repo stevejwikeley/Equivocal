@@ -1,10 +1,15 @@
-<?php include ('_header-fr.php'); ?>
-  
+<?php include ('_header.php'); ?>
+       
 
- <section class="container first-block aligncenter" >
-            <iframe src="http://manoirequivocal.blogspot.fr/" style="width: 100%; height: 6000px; border: 0px; background-color: transparent; top: -420px; position: absolute; z-index: -100; left: -7%;" frameborder="0" allowtransparency="true" onload="keepInView(this);"></iframe>
-<script>function keepInView(item) {if((document.documentElement&&document.documentElement.scrollTop)||document.body.scrollTop>item.offsetTop)item.scrollIntoView();}</script>
- </section>
+          <section class="container first-block aligncenter" >
+            <hr class="vertical-space2">
+            <h2 class="mex-title">Playing music at the manor</h2>
+            <p>Because we like to see musicans have space to practice and develop their talents, we offer the manoir when it's not booked to be open to musicans.</p>
+            <iframe src="https://le-piano-equivocal.youcanbook.me/?noframe=true&skipHeaderFooter=true" style="width:100%;height:1000px;border:0px;background-color:transparent;" frameborder="0" allowtransparency="true" onload="keepInView(this);"></iframe>
+
+
+         <script>function keepInView(item) {if((document.documentElement&&document.documentElement.scrollTop)||document.body.scrollTop>item.offsetTop)item.scrollIntoView();}</script>
+         </section>
         
                     <hr class="vertical-space1">
 
