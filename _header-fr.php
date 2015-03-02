@@ -79,11 +79,11 @@
          <li><a data-l10n-id="Weddings1" href="weddings.php"></a></li> 
 <!--          <li><a data-l10n-id="Weddings2" href="partnering-companies.php"></a></li>  -->
         </ul> </li> 
-       <li> <a data-l10n-id="SeminarsEvents" href="corporateevents.php"></a> 
-<!--         <ul> 
+       <!-- <li> <a data-l10n-id="SeminarsEvents" href="corporateevents.php"></a> 
+        <ul> 
          <li><a data-l10n-id="SeminarsEvents1" href="plan-your-event.php"></a></li> 
          <li><a data-l10n-id="SeminarsEvents2" href="activities.php"></a></li> 
-        </ul> --> </li> 
+        </ul> </li>  --> 
 <!--        <li> <a data-l10n-id="AboutEquivocal" href="equivocal-story.php"></a> 
  -->        <ul> 
 <!--          <li><a data-l10n-id="AboutEquivocal1" href="equivocal-story.php"></a></li> 
