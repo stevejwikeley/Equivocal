@@ -33,11 +33,11 @@
                      <h1 data-l10n-id="Image-caption-4" class="white"></h1>
                      </div>
 
-                    <div class="ls-layer" style=" slideoutdirection : left; slidedelay: 5000; durationin: 1500; durationout: 1500; delayout: 500;">
+<!--                     <div class="ls-layer" style=" slideoutdirection : left; slidedelay: 5000; durationin: 1500; durationout: 1500; delayout: 500;">
                      <img src="images/slide-pics/kids.jpg" class="ls-bg" alt="">
                       <div class="ls-s1" style=" position: absolute; top:80%; left: 50%;  slideoutdirection : left; durationin : 0; durationout : 750; easingin : easeInOutQuint; easingout : easeInBack; delayin : 400;">
                      <h1 data-l10n-id="Image-caption-5" class="white"></h1>
-                     </div>
+                     </div> -->
                       
                      <div class="ls-layer" style=" slideoutdirection : left; slidedelay: 5000; durationin: 1500; durationout: 1500; delayout: 500;">
                      <img src="images/slide-pics/workshops.jpg" class="ls-bg" alt="">
@@ -79,7 +79,7 @@
              <div class="one_half">
                   <figure class="our-team">
                       <h1 data-l10n-id="Weddings" class="outlined"></h1>
-                     <a href="weddings.php"><img class="gold-border" src="images/weddings.jpg" alt=""></a>
+                 <img class="gold-border" src="images/weddings.jpg" alt="">
                      <figcaption>
 
                         <h5 data-l10n-id="Weddings-short-description"></h5>
@@ -89,7 +89,7 @@
             <div class="one_half column-last">
                <figure class="our-team">
                      <h1 data-l10n-id="SeminarsEvents"class="outlined"></h1>
-                     <a href="corporateevents.php"><img class="gold-border" src="images/corporateevent.jpg" alt=""></a>
+                  <img class="gold-border" src="images/corporateevent.jpg" alt="">
                      <figcaption>
                           
                         
@@ -100,7 +100,7 @@
             <div class="one_half">
                   <figure class="our-team">
                         <h1 data-l10n-id="Accomodation" class="outlined"></h1>
-                     <a href="dovecote.php"><img class="gold-border"src="images/cottage-1.jpg" alt=""></a>
+                  <img class="gold-border"src="images/cottage-1.jpg" alt="">
                      <figcaption>
                         <h5 data-l10n-id="Accomodation-short-description"></h5>
                      </figcaption>
@@ -109,12 +109,12 @@
             <div class="one_half column-last">
              <figure class="our-team">
                      <h1 data-l10n-id="CulturalEvents" class="outlined"> </h1>
-                     <a href="corporateevents.php"><img class="gold-border" src="images/cultural.jpg" alt="">
+                <img class="gold-border" src="images/cultural.jpg" alt="">
                    <figcaption>
                         
                         <h5 data-l10n-id="CulturalEvents-short-description"> </h5>
                         
-                     </figcaption></a>
+                     </figcaption>
                   </figure>
             </div>
 
@@ -246,7 +246,7 @@
 </section><!-- container -->  
 
 
-          <section class="container first-block aligncenter" >
+          <section id="map" class="container first-block aligncenter" >
             <hr class="vertical-space2">
             <h2 class="mex-title" data-l10n-id="map-title"></h2>
 
