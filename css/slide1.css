@@ -41,13 +41,13 @@
 
 			@media screen and (max-width: 1200px) {
 			
-			.ls-layer h1, .ls-layer h3 { font-size: 52px; left:0; margin-left:100px;}
+			.ls-layer h1, .ls-layer h3 { font-size: 52px;  margin-left:0px; text-align: center;}
 			
 			}
 
 			
 			@media screen and (max-width: 1024px) {
 			
-			.ls-layer h1, .ls-layer h3 { font-size: 33px; left:0; margin-left:100px;}
+			.ls-layer h1, .ls-layer h3 { font-size: 28px;  margin-left: 0; text-align: center;}
 			
 			}
