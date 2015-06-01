@@ -65,10 +65,11 @@
 
 <!-- Navigation starts
                ================================================== --> 
-<!--     <nav id="nav-wrap" class="nav-wrap2 mn4"> 
+    <nav id="nav-wrap" class="nav-wrap2 mn4"> 
      <div class="container"> 
       <ul id="nav" class="sixteen columns"> 
        <li> <a data-l10n-id="Home" href="en-index.php"></a> </li> 
+       <!-- 
        <li> <a data-l10n-id="Accomodation" href="en-accomodation.php"></a> 
         <ul> 
          <li><a data-l10n-id="cottage" href="en-cottage.php"> </a> </li> 
@@ -81,18 +82,18 @@
          <li><a data-l10n-id="barn" href="en-barn.php"></a></li> 
          <li><a data-l10n-id="gardens" href="en-gardens.php"></a></li> 
          <li><a data-l10n-id="courtyard" href="en-courtyard.php"></a></li> 
-        </ul> </li> 
+        </ul> </li> -->
        <li> <a data-l10n-id="Weddings" href="en-weddings.php"></a> 
-        <ul> 
+        <!-- <ul> 
          <li><a data-l10n-id="Weddings1" href="en-weddings.php"></a></li> 
          <li><a data-l10n-id="Weddings2" href="en-partnering-companies.php"></a></li> 
-        </ul> </li>    
-       <li> <a data-l10n-id="AboutEquivocal" href="en-equivocal-story.php"></a> 
+        </ul> --> </li>    
+       <!-- <li> <a data-l10n-id="AboutEquivocal" href="en-equivocal-story.php"></a> 
        <li> </li>
        <li><a data-l10n-id="OurBlog" href="en-eqblog.php" target="New"></a></li>  
-      </ul> 
+      </ul>  -->
      </div> 
-    </nav>  -->
+    </nav>  
     <!-- /nav-wrap --> 
 
 

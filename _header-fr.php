@@ -58,11 +58,11 @@
 
 <!-- Navigation starts
                ================================================== --> 
-<!--     <nav id="nav-wrap" class="nav-wrap2 mn4"> 
+    <nav id="nav-wrap" class="nav-wrap2 mn4"> 
      <div class="container"> 
       <ul id="nav" class="sixteen columns"> 
        <li> <a data-l10n-id="Home" href="index.php"></a> </li> 
-       <li> <a data-l10n-id="Accomodation" href="accomodation.php"></a> 
+       <!-- <li> <a data-l10n-id="Accomodation" href="accomodation.php"></a> 
         <ul> 
          <li><a data-l10n-id="cottage" href="cottage.php"> </a> </li> 
          <li><a data-l10n-id="bnb" href="bnb.php"></a></li> 
@@ -74,21 +74,21 @@
          <li><a data-l10n-id="barn" href="barn.php"></a></li> 
          <li><a data-l10n-id="gardens" href="gardens.php"></a></li> 
          <li><a data-l10n-id="courtyard" href="courtyard.php"></a></li> 
-        </ul> </li> 
+        </ul> </li>  -->
        <li> <a data-l10n-id="Weddings" href="weddings.php"></a> 
-        <ul> 
+        <!-- <ul> 
          <li><a data-l10n-id="Weddings1" href="weddings.php"></a></li> 
-        </ul> </li> 
-       <li> <a data-l10n-id="AboutEquivocal" href="equivocal-story.php"></a> 
+        </ul> --> </li> 
+       <!-- <li> <a data-l10n-id="AboutEquivocal" href="equivocal-story.php"></a> 
       <ul> 
        <li> <a data-l10n-id="AboutEquivocal2" href="https://www.facebook.com/pages/Le-Manoir-Equivocal-%E6%AD%A2%E5%9B%AD/202763863098447#" target="New"> </a> </li> 
          <li> <a data-l10n-id="AboutEquivocal3" href="musicatthemanor.php"></a></li> 
         </ul> </li> 
        <li> </li>
-       <li><a data-l10n-id="OurBlog" href="eqblog.php" target="New"></a></li>  
-      </ul> 
+       <li><a data-l10n-id="OurBlog" href="eqblog.php" target="New"></a></li> --> 
+      </ul>  
      </div> 
-    </nav>  -->
+    </nav> 
     <!-- /nav-wrap --> 
 
 

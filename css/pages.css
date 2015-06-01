@@ -30,13 +30,13 @@
 	
 	/* Our Team */
 	
-	.our-team { position:relative; margin-bottom:20px; border-bottom:1px solid #999161; text-align:left;}
+	.our-team { position:relative; margin-bottom:20px; text-align:left;}
 	.our-team h4 { margin-top:-82px; font-size:26px;   color:#fff; padding-left:10px; margin-bottom:30px; text-shadow:0 1px 2px rgba(0,0,0,0.9);}
 	.our-team h4 strong { font-weight:300; letter-spacing:0;}
 	.our-team h4 small { color:#fff; font-weight:300; font-size:16px;}
 	.our-team .socailfollow { height:40px; clear:both; border-top:1px solid #999161; padding-top:11px; float:none;}
 	.our-team img { border-bottom:5px solid #999161; min-height:120px; background:#e8e8e8; min-width:180px; display:block;}
-	.our-team:hover img { border-color:#00ff00;}
+	.our-team:hover img  { }
 	.our-team p { color:#797979; font-size:14px;}
 	.container .our-skills p { margin-bottom:5px;}
 	.team-member { border-radius: 4px; box-shadow: 0 0 3px rgba(0, 0, 0, 0.2); }

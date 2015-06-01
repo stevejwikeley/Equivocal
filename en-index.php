@@ -77,14 +77,14 @@
 
             <hr class="vertical-space3">
              <div class="one_half">
-                  <figure class="our-team">
+                  <a href="en-weddings.php"><figure class="our-team">
                       <h1 data-l10n-id="Weddings" class="outlined"></h1>
                      <img class="gold-border" src="images/weddings.jpg" alt="">
                      <figcaption>
 
                         <h5 data-l10n-id="Weddings-short-description"></h5>
                      </figcaption>
-                  </figure>
+                  </figure></a>
             </div> 
             <div class="one_half column-last">
                <figure class="our-team">
@@ -130,118 +130,7 @@
 <h2 class="aligncenter mex-title" data-l10n-id="gallery-title"></h2>
 <h4 class-"aligncenter"><small data-l10n-id="gallery-subtitle"></small></h4>
 <hr class="vertical-space1">
-<div class="image-gallery">
-
-         <ul class="gallery clearfix">
-           
-
-            <li class="img-item">
-            <a href="images/portfo/gallery000.jpg" rel="prettyPhoto[gallery2]" title=" ">
-            <img src="images/portfo/gallery000.jpg" alt=" " />
-            <span class="zoomex">&nbsp;</span>
-            </a>
-            </li>
-
-            <li class="img-item">
-            <a href="images/portfo/gallery001.jpg" rel="prettyPhoto[gallery2]" title=" ">
-            <img src="images/portfo/gallery001.jpg" alt=" " />
-            <span class="zoomex">&nbsp;</span>
-            </a>
-            </li>
-
-            <li class="img-item">
-            <a href="images/portfo/gallery002.jpg" rel="prettyPhoto[gallery2]" title=" ">
-            <img src="images/portfo/gallery002.jpg" alt=" " />
-            <span class="zoomex">&nbsp;</span>
-            </a>
-            </li>
-
-            <li class="img-item">
-            <a href="images/portfo/gallery003.jpg" rel="prettyPhoto[gallery2]" title=" ">
-            <img src="images/portfo/gallery003.jpg" alt=" " />
-            <span class="zoomex">&nbsp;</span>
-            </a>
-            </li>
-
-            <li class="img-item">
-            <a href="images/portfo/gallery004.jpg" rel="prettyPhoto[gallery2]" title=" ">
-            <img src="images/portfo/gallery004.jpg" alt=" " />
-            <span class="zoomex">&nbsp;</span>
-            </a>
-            </li>
-
-            <li class="img-item">
-            <a href="images/portfo/gallery005.jpg" rel="prettyPhoto[gallery2]" title=" ">
-            <img src="images/portfo/gallery005.jpg" alt=" " />
-            <span class="zoomex">&nbsp;</span>
-            </a>
-            </li>
-
-            <li class="img-item">
-            <a href="images/portfo/gallery006.jpg" rel="prettyPhoto[gallery2]" title=" ">
-            <img src="images/portfo/gallery006.jpg" alt=" " />
-            <span class="zoomex">&nbsp;</span>
-            </a>
-            </li>
-
-            <li class="img-item">
-            <a href="images/portfo/gallery007.jpg" rel="prettyPhoto[gallery2]" title=" ">
-            <img src="images/portfo/gallery007.jpg" alt=" " />
-            <span class="zoomex">&nbsp;</span>
-            </a>
-            </li>
-
-            <li class="img-item">
-            <a href="images/portfo/gallery008.jpg" rel="prettyPhoto[gallery2]" title=" ">
-            <img src="images/portfo/gallery008.jpg" alt=" " />
-            <span class="zoomex">&nbsp;</span>
-            </a>
-            </li>
-
-            <li class="img-item">
-            <a href="images/portfo/gallery009.jpg" rel="prettyPhoto[gallery2]" title=" ">
-            <img src="images/portfo/gallery009.jpg" alt=" " />
-            <span class="zoomex">&nbsp;</span>
-            </a>
-            </li>
-
-            <li class="img-item">
-            <a href="images/portfo/gallery010.jpg" rel="prettyPhoto[gallery2]" title=" ">
-            <img src="images/portfo/gallery010.jpg" alt=" " />
-            <span class="zoomex">&nbsp;</span>
-            </a>
-            </li>
-
-            <li class="img-item">
-            <a href="images/portfo/gallery011.jpg" rel="prettyPhoto[gallery2]" title=" ">
-            <img src="images/portfo/gallery011.jpg" alt=" " />
-            <span class="zoomex">&nbsp;</span>
-            </a>
-            </li>
-
-            <li class="img-item">
-            <a href="images/portfo/gallery012.jpg" rel="prettyPhoto[gallery2]" title=" ">
-            <img src="images/portfo/gallery012.jpg" alt=" " />
-            <span class="zoomex">&nbsp;</span>
-            </a>
-            </li>
-
-            <li class="img-item">
-            <a href="images/portfo/gallery013.jpg" rel="prettyPhoto[gallery2]" title=" ">
-            <img src="images/portfo/gallery013.jpg" alt=" " />
-            <span class="zoomex">&nbsp;</span>
-            </a>
-            </li>
-
-            <li class="img-item">
-            <a href="images/portfo/gallery014.jpg" rel="prettyPhoto[gallery2]" title=" ">
-            <img src="images/portfo/gallery014.jpg" alt=" " />
-            <span class="zoomex">&nbsp;</span>
-            </a>
-            </li>
-   </ul>
-</div>
-</div>
+<?php include ('_gallery.php'); ?>
 <hr class="vertical-space2">
 </section><!-- container -->  
 
