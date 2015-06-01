@@ -62,12 +62,13 @@
      <div class="container"> 
       <ul id="nav" class="sixteen columns"> 
        <li> <a data-l10n-id="Home" href="index.php"></a> </li> 
-       <!-- <li> <a data-l10n-id="Accomodation" href="accomodation.php"></a> 
+       <li> <a href="#">Love</a> 
         <ul> 
          <li><a data-l10n-id="cottage" href="cottage.php"> </a> </li> 
          <li><a data-l10n-id="bnb" href="bnb.php"></a></li> 
          <li><a data-l10n-id="dovecote" href="dovecote.php"> </a> </li> 
         </ul> </li> 
+        <!-- 
        <li> <a data-l10n-id="EventSpaces" href="rentingspaces.php"></a> 
         <ul> 
          <li><a data-l10n-id="gf" href="downstairs.php"></a></li> 

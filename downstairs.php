@@ -3,12 +3,12 @@
   <section class="container page-content"> 
    <hr class="vertical-space2" /> 
    <div class="eleven columns portfolio-item"> 
-    <h1 data-l10n-id="room-name"></h1> 
-    <h3 class="slight" data-l10n-id="short-description"></h3> 
+    <h1>Deux salles communicantes dans le manoir</h1> 
+    <h3 class="slight">Le Salon du Manoir et le Salon de Musique</h3> 
    </div> 
    <div class="alignright"> 
-    <a href="http://www.booking.com/hotel/fr/le-manoir-equivocal-zhi-yuan.php?aid=330843;lang=en" target="blank"><button type="button" class="small green bordered-bot" data-l10n-id="CheckAvailability"></button> </a> 
-   </div>  
+    <a href="mailto:irene@manoirequivocal.com" target="blank"><button type="button" class="small green bordered-bot" data-l10n-id="CheckAvailability"></button> </a> 
+   </div>
    <hr class="vertical-space2" /> 
    <div class="sixteen columns"> 
     <section id="hero" class="tbg1"> 
@@ -39,7 +39,7 @@
    </article> 
 
    <h4 data-l10n-id="what-is-included" class="subtitle"></h4> 
-   <p data-l10n-id="what-is-included-list"></p>
+   <p>Internet Wifi MATERIELS DISPONIBLES: Vidéo-projecteur, Ecran, Tableau papier, Tableau blanc, Télévision, Lecteur DVD MOBILIER: Table rectangulaire: 180/75 cm, Chaises</p>
    <hr class="vertical-space1" /> 
 
 
@@ -54,31 +54,8 @@
    <hr class="vertical-space1" /> 
   </section> 
   
-  <section class="related-works"> 
-   <div class="container"> 
-    <div class="sixteen columns"> 
-     <h4 data-l10n-id="other-renting-spaces-title" class="subtitle"></h4> 
-    </div> 
-    <div class="clear"></div> 
-    <!-- Links to other renting spaces--> 
-    <div class="jcarousel-container jcarousel-container-horizontal" style="position: relative; display: block;"> 
-     <div class="jcarousel-clip jcarousel-clip-horizontal" style="position: relative;"> 
-      <ul id="latest-projects" class="jcarousel-list jcarousel-list-horizontal" style="overflow: hidden; position: relative; top: 0px; margin: 0px; padding: 0px; left: 0px; width: 2060px;"> 
-       
-       <li class="portfolio-item four columns jcarousel-item jcarousel-item-horizontal jcarousel-item-4 jcarousel-item-4-horizontal" jcarouselindex="4" style="float: left; list-style: none;"> <a href="downstairs.php"> <img src="images/portfo/downstairs-2.jpg" alt="" /> <h4><strong data-l10n-id="gf"></strong> </h4></a> </li> 
+     <?php include ('_areasofthemanor.php'); ?>
 
-       <li class="portfolio-item four columns jcarousel-item jcarousel-item-horizontal jcarousel-item-2 jcarousel-item-2-horizontal" jcarouselindex="2" style="float: left; list-style: none;"> <a href="barn.php"> 
-        <img src="images/portfo/gardens.jpg" alt="" /> <h4><strong data-l10n-id="barn"> </strong> </h4></a></li> 
-
-       <li class="portfolio-item four columns jcarousel-item jcarousel-item-horizontal jcarousel-item-4 jcarousel-item-4-horizontal" jcarouselindex="4" style="float: left; list-style: none;"> <a href="gardens.php"> <img src="images/portfo/gardens.jpg" alt="" /> <h4><strong data-l10n-id="gardens"></strong> </h4></a> </li> 
-
-       <li class="portfolio-item four columns jcarousel-item jcarousel-item-horizontal jcarousel-item-4 jcarousel-item-4-horizontal" jcarouselindex="4" style="float: left; list-style: none;"> <a href="courtyard.php"> <img src="images/portfo/gardens.jpg" alt="" /> <h4><strong data-l10n-id="courtyard"></strong> </h4></a> </li> 
-      </ul> 
-     </div> 
-     <div class="jcarousel-prev jcarousel-prev-horizontal jcarousel-prev-disabled jcarousel-prev-disabled-horizontal" disabled="disabled" style="display: block;"></div>
-     <div class="jcarousel-next jcarousel-next-horizontal" style="display: block;"></div>
-    </div> 
-   </div> 
   </section> 
   <!-- End Links to other renting spaces--> 
   <section class="container"> 
